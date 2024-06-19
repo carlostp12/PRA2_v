@@ -6,7 +6,11 @@ https://carlostp12.github.io/PRA2_v/web/PRA2.html
 
 El dataset puede ser descargado desde:
 
-https://carlostp12.github.io/PRA2_v/dataset/objects.scv
+https://carlostp12.github.io/PRA2_v/dataset/objects.csv
+
+Guion de la presentación
+
+https://carlostp12.github.io/PRA2_v/Guion.txt
 
 # Información:
 
@@ -26,7 +30,7 @@ Restpuestas a los ejercicios que contienen la práctica:
 			https://carlostp12.github.io/PRA2_v/web/NGC_CATALOG.Rmd
    			https://carlostp12.github.io/PRA2_v/web/NGC_CATALOG.html
 	3.- El dataset se puede descargar de aquí:
-			https://carlostp12.github.io/dataset/objects.csv
+			https://carlostp12.github.io/PRA2_v/dataset/objects.csv
 	
 	Toda la práctica está accesible aquí
 https://carlostp12.github.io/PRA2_v/PRA2.zip
