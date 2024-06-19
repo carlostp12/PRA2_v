@@ -1,7 +1,7 @@
-Guion.
+Guion practica II Visaulización de datos.
 
 1 Presentación. 
-	- Decisiones de diseño: colores
+	- Decisiones de diseño: colores Palette Visualizer (Herramientas de la asignatura).
 	- El conjunto de datos. Características.
 	
 
@@ -9,7 +9,7 @@ Guion.
 ¿Que información podemos obtener de la la galaxia y fuera de ella mediante el catálogo NGC?
 	Partes del catálogo:
 	-Objetos extragalácticos.
-	-Dentro galácticos
+	-Dentro de la Galaxia.
 
 2. El cielo a simple vista:
 	Vía Lactea: camino de Santiago.
@@ -18,10 +18,10 @@ Guion.
 	
 	Cúmulos abiertos: que son: forman parte del Dísco fino.
 	Cúmulos globulares: que son: forman parte del Halo. => Apuntan al centro galáctico.
-	¿Neblusas?: que son: forman parte del Disco Grueso.
+	¿Neblusas?: que son: forman parte del Disco Grueso. => Si no hay tiempo no presentar
 	Galaxias: que son: Se aprecian mejor hacia los Polos Galácticos.
 	
-	Pulsar en End:
+	Pulsar en End: --> Importante!!
 	
 3. Conclusiones
 	Dentro de la Galaxia.
