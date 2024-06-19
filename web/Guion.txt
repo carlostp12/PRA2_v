@@ -1,0 +1,36 @@
+Guion.
+
+1 Presentación. 
+	- Decisiones de diseño: colores
+	- El conjunto de datos. Características.
+	
+
+1.5 Abrir y Cuestiones a responder:
+¿Que información podemos obtener de la la galaxia y fuera de ella mediante el catálogo NGC?
+	Partes del catálogo:
+	-Objetos extragalácticos.
+	-Dentro galácticos
+
+2. El cielo a simple vista:
+	Vía Lactea: camino de Santiago.
+	El sol en La Vía Láctea
+	Partes de la Vía Láctea
+	
+	Cúmulos abiertos: que son: forman parte del Dísco fino.
+	Cúmulos globulares: que son: forman parte del Halo. => Apuntan al centro galáctico.
+	¿Neblusas?: que son: forman parte del Disco Grueso.
+	Galaxias: que son: Se aprecian mejor hacia los Polos Galácticos.
+	
+	Pulsar en End:
+	
+3. Conclusiones
+	Dentro de la Galaxia.
+	Fuera de la Galáxia, hablar de distancias galácticas.
+	
+4. Final: mención a las herramientas usadas y lo que se ha aprendido durante el curso.
+5. ¿Que he aprendido sobre el conjunto de datos? ¿Y sobre las técnicas?
+
+GRACIAS!	
+	
+	
+	
