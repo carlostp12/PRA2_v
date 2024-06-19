@@ -12,10 +12,13 @@ Guion de la presentación
 
 https://carlostp12.github.io/PRA2_v/Guion.txt
 
+# Juego de colores:
+
+Se ha usado Palette Visualizer para escpger un juego de colores que fuera acorde con 
+
 # Información:
 
-Con esta práctica pretendo hacer una visualización del catálogo de objetos astronómicos NGC.
-Restpuestas a los ejercicios que contienen la práctica:
+Con esta práctica pretendo hacer una visualización del Universo que nos rodea mediante el dataset proporcionado.
 	
 	1.- Herramientas: 
 		- JQuery + Jquery-UI.
@@ -29,8 +32,5 @@ Restpuestas a los ejercicios que contienen la práctica:
 	3.- Acceso al código R generado de ayuda a la presentación
 			https://carlostp12.github.io/PRA2_v/web/NGC_CATALOG.Rmd
    			https://carlostp12.github.io/PRA2_v/web/NGC_CATALOG.html
-	3.- El dataset se puede descargar de aquí:
+	3.- El dataset del catálogo NGC se puede descargar de aquí:
 			https://carlostp12.github.io/PRA2_v/dataset/objects.csv
-	
-	Toda la práctica está accesible aquí
-https://carlostp12.github.io/PRA2_v/PRA2.zip
