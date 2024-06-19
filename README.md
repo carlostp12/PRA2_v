@@ -1,8 +1,8 @@
 # Práctica 2: Visualización de datos.
 
-Para acceder online a los contenidos de esta PEC entre en la URL:
+Para acceder online a la presentación de esta práctica:
 
-https://carlostp12.github.io/PRA2_v/index.html
+https://carlostp12.github.io/PRA2_v/web/PRA2.html
 
 # Información:
 
