@@ -8,6 +8,10 @@ El dataset puede ser descargado desde:
 
 https://carlostp12.github.io/PRA2_v/dataset/objects.scv
 
+Guion de la presentación
+
+https://carlostp12.github.io/PRA2_v/Guion.txt
+
 # Información:
 
 Con esta práctica pretendo hacer una visualización del catálogo de objetos astronómicos NGC.
