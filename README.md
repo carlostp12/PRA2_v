@@ -17,9 +17,10 @@ Restpuestas a los ejercicios que contienen la práctica:
 		- Palette Visualizer (Herramientas de la asignatura).
 		- Color Picker.
 	2.- Acceso a la presentación
-			[https://carlostp12.github.io/PRA2_v/web/PRA2.html](https://carlostp12.github.io/PRA2_v/web/PRA2.html)
+			https://carlostp12.github.io/PRA2_v/web/PRA2.html
 	3.- Acceso al c´çodigo R generado de ayuda a la presentación
 			https://carlostp12.github.io/PRA2_v/web/NGC_CATALOG.Rmd
+   			https://carlostp12.github.io/PRA2_v/web/NGC_CATALOG.html
 	3.- El dataset se puede descargar de aquí:
 			https://carlostp12.github.io/dataset/objects.csv
 	
