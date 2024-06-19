@@ -1,0 +1,328 @@
+---
+title: "PRA1_VISUALIZACION_DATOS_CARLOS_TORO_PEÑAS"
+author: "Carlos Toro Peñas"
+date: '2024-05-06'
+output:
+  html_document:
+    highlight: default
+    number_sections: yes
+    theme: cosmo
+    toc: yes
+    toc_depth: 2
+    includes:
+      in_header: header.html
+      before_body: before_body.html
+      after_body: after_body.html
+  word_document: default
+  pdf_document:
+    highlight: zenburn
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+![Par de galaxias NGC 3034 (M82) izquierda y NGC 3031 (M81) a la derecha. (c) 2024 Carlos Toro Peñas.](images/paste-0BB0887C.png){width="683"}
+
+# Selección: El catálogo NGC
+
+Pasamos a leer el conjunto de datos:
+
+```{r}
+#setwd('C:/Users/Carlos/OneDrive/data-science/10.visualizacion_de_datos/PRA2')
+data<- as.data.frame(read.csv('objects.csv'))
+```
+
+Limpieza de los datos.
+
+Tendermos que hacer una serie de conversiones, en primer lugar para las coordenadas para ello:
+
+```{r}
+if(!require('tidyverse')) install.packages("tidyverse"); library('tidyverse')
+if(!require('stringr')) install.packages("stringr"); library('stringr')
+
+if(!require('dplyr')) install.packages('dplyr'); library('dplyr')
+
+#Elimintate data 
+data<-data[data$Type!='Asterism',]
+data<-data[data$Type!='Double star',]
+data<-data[data$Type!='Duplicate',]
+data<-data[data$Type!='Non-existent',]
+
+data$dec_n <- gsub("°", " ", data$DEC)
+data$dec_n <- gsub("Â", "", data$dec_n)
+data$dec_n <- gsub("\\+", "", data$dec_n)
+data$dec_n <- gsub("'", " ", data$dec_n)
+data$dec_n <- gsub("\"", "", data$dec_n)
+
+data$ra_n <- gsub("h", " ", data$RA)
+data$ra_n <- gsub("m", " ", data$ra_n)
+data$ra_n <- gsub("s", " ", data$ra_n)
+
+#Delete unnecessary columns
+cols.dont.want <- c("Url_image", "Description")
+data <- data[, ! names(data) %in% cols.dont.want, drop = F]
+
+converZeroNA <- function(anumber) {
+    number <- as.numeric(anumber)
+	if(is.na(number)){
+		return(0)
+	}
+	return (number)
+}
+
+parseDECNumeric <- function (ra_string) {
+	d <- str_split_1(ra_string, " ")
+	degrees <- converZeroNA(d[1])
+	min <- converZeroNA(d[2])
+	sec <- converZeroNA(d[3])
+	
+	return (sec/3600 + min/60 + degrees)
+}
+parseRANumeric <- function (ra_string) {
+	d <- str_split_1(ra_string, " ")
+	hour <- converZeroNA(d[1])
+	min <- converZeroNA(d[2])
+	sec <- converZeroNA(d[3])
+
+    return (360 * (sec/3600 + min/60 + hour) / 24)
+}
+
+
+data$dec_n  <- sapply(X = data$dec_n , FUN = parseDECNumeric)
+
+data$ra_n  <- sapply(X = data$ra_n , FUN = parseRANumeric)
+
+#Set the javascript to each object
+for (indiceFila in 1:nrow(data)) {
+    colour <- 'rgb(255,220,220)'
+    if(data[indiceFila, 'Type'] == 'Galaxy triplet' || data[indiceFila, 'Type'] == 'Galaxy pair' || data[indiceFila, 'Type'] == 'Galaxy')
+        colour <- 'rgb(255,0,0)'
+    if( data[indiceFila, 'Type'] == 'HII region')
+      colour <- 'rgb(117, 50, 168)'
+    if( data[indiceFila, 'Type'] == 'Emission nebula')
+      colour <- 'rgb(162, 168, 50)'
+    if( data[indiceFila, 'Type'] == 'Reflection nebula')
+      colour <- 'rgb(162, 168, 50)'
+    if(data[indiceFila, 'Type'] == 'Nebula')
+        colour <- 'rgb(0,153,0)'
+    if(data[indiceFila, 'Type'] == 'Open cluster')
+        colour <- 'rgb(0,0,220)'
+    
+    data[indiceFila,'script'] <- paste("planetarium.addPointer({
+    'ra': ", data[indiceFila, 'ra_n'],",
+    'dec': ", data[indiceFila, 'dec_n'],",
+    'label': '",data[indiceFila, 'Name'],"',
+    'colour': '",colour,"'});")
+    
+}
+
+# paso a coordenadas galacticas
+alpha_n=4.92619181
+ln=0.576168093
+g=1.092576
+
+delta_ngp=0.47350783
+lncp= 2.14558825281
+alpha_n=238.5
+
+
+parseB <- function (alpha, delta) {
+  #b=asin(cos(g)*sin(delta)-sin(g)*cos(delta)*sin(alpha-alpha_n))
+  b=asin(sin(delta_ngp)*sin(delta)+cos(delta_ngp)*cos(delta)*cos(alpha-alpha_n))
+  return(b)
+}
+
+parseL <- function (alpha, delta, b) {
+    l = ln + atan((sin(delta)-cos(g)*sin(b))/(sin(g)*cos(delta)*cos(alpha-alpha_n)))
+}
+
+
+data$gaB <- parseB(data$ra_n, data$dec_n)
+data$gaL <- parseL(data$ra_n, data$dec_n, data$gaB)
+
+#Set the javascript to each object
+for (indiceFila in 1:nrow(data)) {
+    colour <- 'rgb(255,220,220)'
+    if(data[indiceFila, 'Type'] == 'Galaxy triplet' || data[indiceFila, 'Type'] == 'Galaxy pair' || data[indiceFila, 'Type'] == 'Galaxy')
+        colour <- 'rgb(255,0,0)'
+    if(data[indiceFila, 'Type'] == 'Emission nebula' || data[indiceFila, 'Type'] == 'Nebula' || data[indiceFila, 'Type'] == 'HII region' || data[indiceFila, 'Type'] == 'Reflection nebula')
+        colour <- 'rgb(0,153,0)'
+    if(data[indiceFila, 'Type'] == 'Open cluster')
+        colour <- 'rgb(0,0,220)'
+    
+    data[indiceFila,'scriptGal'] <- paste("planetarium.addPointer({
+    'ra': ", data[indiceFila, 'ra_n'],",
+    'dec': ", data[indiceFila, 'dec_n'],",
+    'label': '",data[indiceFila, 'Name'],"',
+    'colour': '",colour,"'});")
+    
+}
+
+
+
+data$Distance <- gsub("â€“", "", data$Distance)
+
+nebulae <- data[data$Type == 'Emission nebula',]
+nebular <- data[data$Type == 'Reflection nebula',]
+nebulahii <- data[data$Type == 'HII region',]
+clusters <- data[data$Type == 'Open cluster',]
+galaxies <- data[data$Type == 'Galaxy',]
+nebulas <-  data[data$Type == 'Nebula',]
+globular <- data[data$Type == 'Globular cluster' ,]
+
+#write.csv(nebulas, 'nebulas.csv')
+
+plot(galaxies$ra_n, galaxies$dec_n, xlim=rev(range(galaxies$ra_n)), xlab = 'RA', ylab='DEC')
+points(clusters$ra_n, clusters$dec_n, col='blue')
+points(globular$ra_n, globular$dec_n, col='green')
+# convert Distance
+
+
+```
+
+```{r}
+galaxies <- data[data$Type == 'Galaxy',]
+galaxies$Distance<-as.numeric(galaxies$Distance)
+galaxies <- galaxies[complete.cases(galaxies),]
+
+
+#convert distance to million of Mla
+
+distance_to_la <- function (distance) {
+	return (distance*3.26/1000)
+}
+#violin
+
+galaxies$Distance <- sapply(X = galaxies$Distance , FUN = distance_to_la)
+galaxies <- galaxies[galaxies$Distance < 750,]
+
+ggplot(galaxies[galaxies$Distance< 200, ], aes(x=Type, y=Distance))+geom_violin() + ggtitle('Frecuencia de galaxias en función de la distancia') + xlab('Número de galaxias') + ylab('Distancia')
+
+```
+
+```{r}
+
+
+#No galactico
+non_galactic<-data[data$Type!='Galaxy',]
+non_galactic<-non_galactic[non_galactic$Type!='Galaxy pair',]
+non_galactic<-non_galactic[non_galactic$Type!='Galaxy triplet',]
+a<-table(non_galactic$Type)
+barplot(a) 
+
+
+
+
+
+```
+
+```{r}
+# Galaxias con laaltitud galáctica
+require(gridExtra)
+plot1<- ggplot(galaxies, aes(x=Type, y=gaB))+geom_violin() + ggtitle('Galaxias con la altitud sobre el plano galáctico') + xlab('Número de galaxias') + ylab('Altitud galáctica')
+
+plot2<- ggplot(galaxies, aes(x=Type, y=gaL))+geom_boxplot() + ggtitle('Galaxias con la altitud sobre el plano galáctico') + xlab('Número de galaxias') + ylab('Altitud galáctica')
+
+grid.arrange(plot1, plot2, ncol=2)
+```
+
+Estamos usando scroll magic, otra de las herramientas sugeridas para las presentaciones.
+
+# Relevancia del conjunto de datos
+
+Nos vamos a basar en el catálogo de aproximadamente 7800 objetos llamado NGC.
+
+El catálogo NGC es una extensión del catálogo Messier (que se compone solamente de 110 objetos). El NGC fue creado por Deyer en 1880 y constituye uno de los principales catálogos de objetos astronómicos del espacio profundo, de gran utilidad para la astronomía amateur, pero también para profesionales.
+
+Se trata de unos datos actualizados, en particular ya sea por la precesión de los equinocios o por el movimiento propio, las coordenadas de los objetos pueden ir variando, en este caso, todos los datos se han obtenido de [Open NGC](https://github.com/mattiaverga/OpenNGC "Open NGC") que a su vez usa la base de datos [Simbad](https://simbad.u-strasbg.fr/simbad/ "Simbad database").
+
+# El dataset: Complejidad y originalidad
+
+El conjunto de datos se ha obtenido mediante WEB-scraping en la asignatura de **"El ciclo de vida sde los datos"** de la web:
+
+<https://in-the-sky.org/data/catalogue.php?cat=NGC>
+
+Se trata de una recopilación obtenida por el autor de la WEB del catálogo NGC. Dichos datos los ha obtenido de una recopilación aún mayor: [OpenNCG](https://github.com/mattiaverga/OpenNGC "OpenNCG"). Catálogo esté muy utilizado por parte de aficcionados y profesionales.
+
+Una muestra del dataset, en crudo y sin normalizar:
+
+```{r}
+gpa <- as.data.frame(read.csv("objects.csv"))
+str(gpa)
+```
+
+El juego de datos contiene las siguientes columnas:
+
+**Name**: Nombre en el catálogo. Variable alfa-numérica.
+
+**Type**: tipo de objeto, alfa-numérica. Variable categórica.
+
+**Magnitude**: Magnitud (brillo) visual, numérica.
+
+**Distance**: distancia expresada en KiloParsecs (cuando disponible) . Variable numérica.
+
+**Constellation**: constelacion a la que pertenece el objeto, alfa-numérica. Variable categórica.
+
+**RA**: Coordenada de Ascensión recta. Variable numérica.
+
+**DEC**: Coordenada de declinación. Variable numérica.
+
+**Other Names**: nombres alternativos del objeto.
+
+**Description**: umna breve descripción del objeto, alfa-numérica.
+
+**Url_image**: URL de la imagen del objeto, alfa-numérica.
+
+El catálogo NCG es una extensión del catálog Messier de 110 objetos recopilado por el astrónomo francés Charles Messier en el siglo XVIII.
+
+# La visualización que se quiere representar
+
+La idea es, usar el API javascript:
+
+<https://virtualsky.lco.global/>
+
+Para representar en la esfera celeste por categorias los objetos presentes en el catálogo para poder visualizar, de este modo su distribución en el firmamento. Para ello usaré las coordenadas Ascensión recta y Declinación para obtener la representación de cada objeto.
+
+Gráfica de distribución por categorías, en función de la distancia de los objetos del catálogo.
+
+Espero usar también R para crear un diagrama de frecuencias de objetos: galaxias, nebulosas, cúmulo estelar, etc.
+
+Es decir espero visualizar los datos desde 3 puntos de vista:
+
+-   Distribución en el firmamento.
+
+-   Distribución en función de la distancia.
+
+-   Visualización comparativa de los objetos del catálogo.
+
+# Cuestiones que se esperan responder
+
+Estudio tanto por totales como por porcentajes los distintos tipos de objetos observables desde la Tierra.
+
+Distribución de objetos en el firmamento, de la que se espera que este punto nos proporcione ciertas informaciones como:
+
+-   Verificar la condensación o mayor densidad de objetos como nebulosas o cumulos abiertos en las proximidades de la Vía Láctea.
+
+-   Verificar la mayor densidad de galaxias cerca de las constelaciones Coma-Virgo donde se encuentra el mayor cúmulo de galaxias próximo al Sol.
+
+-   Será interesante ver tambien la distribución de los cúmulos globulares en la esfera celeste.
+
+-   Histograma de los objetos que componen el catálogo y frecuencias relativas.
+
+-   Espero finalmente obtener una representación del número de galaxias en función de la distancia.
+
+# Copyright y Originalidad
+
+El conjunto de datos se ha obtenido mediante WEB-scraping en la asignatura de **"El ciclo de vida sde los datos"** de la web:
+
+<https://in-the-sky.org/data/catalogue.php?cat=NGC>
+
+© [Dominic Ford](https://in-the-sky.org/about.php) 2011--2024.
+
+Cuya licencia nos permite la realización del presente trabajo. La recopilación (que no el catálogo en sí mismo) tiene Copyright y pertenece a Dominic Ford.
+
+En cuanto a la **originalidad**: se trata de un datos obtenidos mediante programación en Python en una asignatura anterior, dicho dataset se utilizó **únicamente** para el WEB-scraping, es decir, tanto la visualización como el estudio de objetos que se plantea en el presente trabajo es totalmente original.
+
+Adjunto a este documento se envía el CSV que constituye el dataset con el que se quiere trabajar.
