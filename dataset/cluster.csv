@@ -1,0 +1,3196 @@
+"","x"
+"1","planetarium.addPointer({
+    'ra':  6.25 ,
+    'dec':  61.3166666666667 ,
+    'label': ' NGC 103 ',
+    'colour': ' rgb(0,0,220) '});"
+"2","planetarium.addPointer({
+    'ra':  6.75 ,
+    'dec':  71.3833333333333 ,
+    'label': ' NGC 110 ',
+    'colour': ' rgb(0,0,220) '});"
+"3","planetarium.addPointer({
+    'ra':  7.25 ,
+    'dec':  60.2 ,
+    'label': ' NGC 129 ',
+    'colour': ' rgb(0,0,220) '});"
+"4","planetarium.addPointer({
+    'ra':  7.75 ,
+    'dec':  63.35 ,
+    'label': ' NGC 133 ',
+    'colour': ' rgb(0,0,220) '});"
+"5","planetarium.addPointer({
+    'ra':  7.75 ,
+    'dec':  61.5 ,
+    'label': ' NGC 136 ',
+    'colour': ' rgb(0,0,220) '});"
+"6","planetarium.addPointer({
+    'ra':  8.25 ,
+    'dec':  63.3 ,
+    'label': ' NGC 146 ',
+    'colour': ' rgb(0,0,220) '});"
+"7","planetarium.addPointer({
+    'ra':  8 ,
+    'dec':  -72.8833333333333 ,
+    'label': ' NGC 152 ',
+    'colour': ' rgb(0,0,220) '});"
+"8","planetarium.addPointer({
+    'ra':  8.75 ,
+    'dec':  -72.85 ,
+    'label': ' NGC 176 ',
+    'colour': ' rgb(0,0,220) '});"
+"9","planetarium.addPointer({
+    'ra':  11.75 ,
+    'dec':  85.2666666666667 ,
+    'label': ' NGC 188 ',
+    'colour': ' rgb(0,0,220) '});"
+"10","planetarium.addPointer({
+    'ra':  9.75 ,
+    'dec':  61.0833333333333 ,
+    'label': ' NGC 189 ',
+    'colour': ' rgb(0,0,220) '});"
+"11","planetarium.addPointer({
+    'ra':  10 ,
+    'dec':  -72.6 ,
+    'label': ' NGC 220 ',
+    'colour': ' rgb(0,0,220) '});"
+"12","planetarium.addPointer({
+    'ra':  10 ,
+    'dec':  -72.6166666666667 ,
+    'label': ' NGC 222 ',
+    'colour': ' rgb(0,0,220) '});"
+"13","planetarium.addPointer({
+    'ra':  10.75 ,
+    'dec':  61.7666666666667 ,
+    'label': ' NGC 225 ',
+    'colour': ' rgb(0,0,220) '});"
+"14","planetarium.addPointer({
+    'ra':  10.25 ,
+    'dec':  -72.65 ,
+    'label': ' NGC 231 ',
+    'colour': ' rgb(0,0,220) '});"
+"15","planetarium.addPointer({
+    'ra':  10.75 ,
+    'dec':  -72.5666666666667 ,
+    'label': ' NGC 241 ',
+    'colour': ' rgb(0,0,220) '});"
+"16","planetarium.addPointer({
+    'ra':  10.75 ,
+    'dec':  -72.5666666666667 ,
+    'label': ' NGC 242 ',
+    'colour': ' rgb(0,0,220) '});"
+"17","planetarium.addPointer({
+    'ra':  11.25 ,
+    'dec':  -72.5 ,
+    'label': ' NGC 256 ',
+    'colour': ' rgb(0,0,220) '});"
+"18","planetarium.addPointer({
+    'ra':  11.75 ,
+    'dec':  -72.5333333333333 ,
+    'label': ' NGC 265 ',
+    'colour': ' rgb(0,0,220) '});"
+"19","planetarium.addPointer({
+    'ra':  12 ,
+    'dec':  -72.7333333333333 ,
+    'label': ' NGC 267 ',
+    'colour': ' rgb(0,0,220) '});"
+"20","planetarium.addPointer({
+    'ra':  12 ,
+    'dec':  -72.4833333333333 ,
+    'label': ' NGC 269 ',
+    'colour': ' rgb(0,0,220) '});"
+"21","planetarium.addPointer({
+    'ra':  12.75 ,
+    'dec':  35.8166666666667 ,
+    'label': ' NGC 272 ',
+    'colour': ' rgb(0,0,220) '});"
+"22","planetarium.addPointer({
+    'ra':  12.75 ,
+    'dec':  -72.85 ,
+    'label': ' NGC 290 ',
+    'colour': ' rgb(0,0,220) '});"
+"23","planetarium.addPointer({
+    'ra':  13.25 ,
+    'dec':  -72.6333333333333 ,
+    'label': ' NGC 294 ',
+    'colour': ' rgb(0,0,220) '});"
+"24","planetarium.addPointer({
+    'ra':  13.25 ,
+    'dec':  -71.8166666666667 ,
+    'label': ' NGC 299 ',
+    'colour': ' rgb(0,0,220) '});"
+"25","planetarium.addPointer({
+    'ra':  13.5 ,
+    'dec':  -71.7666666666667 ,
+    'label': ' NGC 306 ',
+    'colour': ' rgb(0,0,220) '});"
+"26","planetarium.addPointer({
+    'ra':  14 ,
+    'dec':  -71.55 ,
+    'label': ' NGC 330 ',
+    'colour': ' rgb(0,0,220) '});"
+"27","planetarium.addPointer({
+    'ra':  14.75 ,
+    'dec':  -71.8333333333333 ,
+    'label': ' NGC 346 ',
+    'colour': ' rgb(0,0,220) '});"
+"28","planetarium.addPointer({
+    'ra':  15.5 ,
+    'dec':  -70.4 ,
+    'label': ' NGC 361 ',
+    'colour': ' rgb(0,0,220) '});"
+"29","planetarium.addPointer({
+    'ra':  16.5 ,
+    'dec':  62.2166666666667 ,
+    'label': ' NGC 366 ',
+    'colour': ' rgb(0,0,220) '});"
+"30","planetarium.addPointer({
+    'ra':  15.75 ,
+    'dec':  -71.95 ,
+    'label': ' NGC 371 ',
+    'colour': ' rgb(0,0,220) '});"
+"31","planetarium.addPointer({
+    'ra':  15.75 ,
+    'dec':  -71.1833333333333 ,
+    'label': ' NGC 376 ',
+    'colour': ' rgb(0,0,220) '});"
+"32","planetarium.addPointer({
+    'ra':  17 ,
+    'dec':  61.5666666666667 ,
+    'label': ' NGC 381 ',
+    'colour': ' rgb(0,0,220) '});"
+"33","planetarium.addPointer({
+    'ra':  16.25 ,
+    'dec':  -70.0166666666667 ,
+    'label': ' NGC 395 ',
+    'colour': ' rgb(0,0,220) '});"
+"34","planetarium.addPointer({
+    'ra':  16.75 ,
+    'dec':  -70.2333333333333 ,
+    'label': ' NGC 411 ',
+    'colour': ' rgb(0,0,220) '});"
+"35","planetarium.addPointer({
+    'ra':  17.25 ,
+    'dec':  -70.2333333333333 ,
+    'label': ' NGC 422 ',
+    'colour': ' rgb(0,0,220) '});"
+"36","planetarium.addPointer({
+    'ra':  18.75 ,
+    'dec':  60.1166666666667 ,
+    'label': ' NGC 433 ',
+    'colour': ' rgb(0,0,220) '});"
+"37","planetarium.addPointer({
+    'ra':  18.75 ,
+    'dec':  58.8166666666667 ,
+    'label': ' NGC 436 ',
+    'colour': ' rgb(0,0,220) '});"
+"38","planetarium.addPointer({
+    'ra':  18.25 ,
+    'dec':  -72.7166666666667 ,
+    'label': ' NGC 456 ',
+    'colour': ' rgb(0,0,220) '});"
+"39","planetarium.addPointer({
+    'ra':  19.75 ,
+    'dec':  58.2833333333333 ,
+    'label': ' NGC 457 ',
+    'colour': ' rgb(0,0,220) '});"
+"40","planetarium.addPointer({
+    'ra':  18.5 ,
+    'dec':  -70.45 ,
+    'label': ' NGC 458 ',
+    'colour': ' rgb(0,0,220) '});"
+"41","planetarium.addPointer({
+    'ra':  18.75 ,
+    'dec':  -72.6666666666667 ,
+    'label': ' NGC 465 ',
+    'colour': ' rgb(0,0,220) '});"
+"42","planetarium.addPointer({
+    'ra':  22.25 ,
+    'dec':  63.3 ,
+    'label': ' NGC 559 ',
+    'colour': ' rgb(0,0,220) '});"
+"43","planetarium.addPointer({
+    'ra':  23.25 ,
+    'dec':  60.65 ,
+    'label': ' NGC 581 ',
+    'colour': ' rgb(0,0,220) '});"
+"44","planetarium.addPointer({
+    'ra':  22.25 ,
+    'dec':  -72.45 ,
+    'label': ' NGC 602 ',
+    'colour': ' rgb(0,0,220) '});"
+"45","planetarium.addPointer({
+    'ra':  24 ,
+    'dec':  64.5333333333333 ,
+    'label': ' NGC 609 ',
+    'colour': ' rgb(0,0,220) '});"
+"46","planetarium.addPointer({
+    'ra':  25.75 ,
+    'dec':  64.0333333333333 ,
+    'label': ' NGC 637 ',
+    'colour': ' rgb(0,0,220) '});"
+"47","planetarium.addPointer({
+    'ra':  25.75 ,
+    'dec':  61.8666666666667 ,
+    'label': ' NGC 654 ',
+    'colour': ' rgb(0,0,220) '});"
+"48","planetarium.addPointer({
+    'ra':  25.75 ,
+    'dec':  55.8333333333333 ,
+    'label': ' NGC 657 ',
+    'colour': ' rgb(0,0,220) '});"
+"49","planetarium.addPointer({
+    'ra':  26 ,
+    'dec':  60.6666666666667 ,
+    'label': ' NGC 659 ',
+    'colour': ' rgb(0,0,220) '});"
+"50","planetarium.addPointer({
+    'ra':  26.5 ,
+    'dec':  61.2166666666667 ,
+    'label': ' NGC 663 ',
+    'colour': ' rgb(0,0,220) '});"
+"51","planetarium.addPointer({
+    'ra':  29.5 ,
+    'dec':  60.15 ,
+    'label': ' NGC 743 ',
+    'colour': ' rgb(0,0,220) '});"
+"52","planetarium.addPointer({
+    'ra':  29.5 ,
+    'dec':  55.4666666666667 ,
+    'label': ' NGC 744 ',
+    'colour': ' rgb(0,0,220) '});"
+"53","planetarium.addPointer({
+    'ra':  29.25 ,
+    'dec':  37.8333333333333 ,
+    'label': ' NGC 752 ',
+    'colour': ' rgb(0,0,220) '});"
+"54","planetarium.addPointer({
+    'ra':  29 ,
+    'dec':  -73.7833333333333 ,
+    'label': ' NGC 796 ',
+    'colour': ' rgb(0,0,220) '});"
+"55","planetarium.addPointer({
+    'ra':  34.5 ,
+    'dec':  57.1166666666667 ,
+    'label': ' NGC 869 ',
+    'colour': ' rgb(0,0,220) '});"
+"56","planetarium.addPointer({
+    'ra':  35.5 ,
+    'dec':  57.1333333333333 ,
+    'label': ' NGC 884 ',
+    'colour': ' rgb(0,0,220) '});"
+"57","planetarium.addPointer({
+    'ra':  35.75 ,
+    'dec':  63.7666666666667 ,
+    'label': ' NGC 886 ',
+    'colour': ' rgb(0,0,220) '});"
+"58","planetarium.addPointer({
+    'ra':  38 ,
+    'dec':  44.5833333333333 ,
+    'label': ' NGC 956 ',
+    'colour': ' rgb(0,0,220) '});"
+"59","planetarium.addPointer({
+    'ra':  38.25 ,
+    'dec':  57.5666666666667 ,
+    'label': ' NGC 957 ',
+    'colour': ' rgb(0,0,220) '});"
+"60","planetarium.addPointer({
+    'ra':  40.5 ,
+    'dec':  61.5833333333333 ,
+    'label': ' NGC 1027 ',
+    'colour': ' rgb(0,0,220) '});"
+"61","planetarium.addPointer({
+    'ra':  40.5 ,
+    'dec':  42.7333333333333 ,
+    'label': ' NGC 1039 ',
+    'colour': ' rgb(0,0,220) '});"
+"62","planetarium.addPointer({
+    'ra':  46.25 ,
+    'dec':  44.3666666666667 ,
+    'label': ' NGC 1193 ',
+    'colour': ' rgb(0,0,220) '});"
+"63","planetarium.addPointer({
+    'ra':  47.75 ,
+    'dec':  53.3333333333333 ,
+    'label': ' NGC 1220 ',
+    'colour': ' rgb(0,0,220) '});"
+"64","planetarium.addPointer({
+    'ra':  48.5 ,
+    'dec':  47.2333333333333 ,
+    'label': ' NGC 1245 ',
+    'colour': ' rgb(0,0,220) '});"
+"65","planetarium.addPointer({
+    'ra':  47.5 ,
+    'dec':  -56.25 ,
+    'label': ' NGC 1252 ',
+    'colour': ' rgb(0,0,220) '});"
+"66","planetarium.addPointer({
+    'ra':  52.75 ,
+    'dec':  37.3666666666667 ,
+    'label': ' NGC 1342 ',
+    'colour': ' rgb(0,0,220) '});"
+"67","planetarium.addPointer({
+    'ra':  53.5 ,
+    'dec':  51.4166666666667 ,
+    'label': ' NGC 1348 ',
+    'colour': ' rgb(0,0,220) '});"
+"68","planetarium.addPointer({
+    'ra':  57.25 ,
+    'dec':  52.65 ,
+    'label': ' NGC 1444 ',
+    'colour': ' rgb(0,0,220) '});"
+"69","planetarium.addPointer({
+    'ra':  61 ,
+    'dec':  52.65 ,
+    'label': ' NGC 1496 ',
+    'colour': ' rgb(0,0,220) '});"
+"70","planetarium.addPointer({
+    'ra':  60 ,
+    'dec':  -11.9833333333333 ,
+    'label': ' NGC 1498 ',
+    'colour': ' rgb(0,0,220) '});"
+"71","planetarium.addPointer({
+    'ra':  61.75 ,
+    'dec':  62.3166666666667 ,
+    'label': ' NGC 1502 ',
+    'colour': ' rgb(0,0,220) '});"
+"72","planetarium.addPointer({
+    'ra':  62.25 ,
+    'dec':  49.5166666666667 ,
+    'label': ' NGC 1513 ',
+    'colour': ' rgb(0,0,220) '});"
+"73","planetarium.addPointer({
+    'ra':  59.25 ,
+    'dec':  -75.1666666666667 ,
+    'label': ' NGC 1520 ',
+    'colour': ' rgb(0,0,220) '});"
+"74","planetarium.addPointer({
+    'ra':  63.75 ,
+    'dec':  51.2 ,
+    'label': ' NGC 1528 ',
+    'colour': ' rgb(0,0,220) '});"
+"75","planetarium.addPointer({
+    'ra':  65 ,
+    'dec':  50.25 ,
+    'label': ' NGC 1545 ',
+    'colour': ' rgb(0,0,220) '});"
+"76","planetarium.addPointer({
+    'ra':  65.25 ,
+    'dec':  36.9 ,
+    'label': ' NGC 1548 ',
+    'colour': ' rgb(0,0,220) '});"
+"77","planetarium.addPointer({
+    'ra':  63.25 ,
+    'dec':  -69.5833333333333 ,
+    'label': ' NGC 1557 ',
+    'colour': ' rgb(0,0,220) '});"
+"78","planetarium.addPointer({
+    'ra':  67.75 ,
+    'dec':  43.7833333333333 ,
+    'label': ' NGC 1582 ',
+    'colour': ' rgb(0,0,220) '});"
+"79","planetarium.addPointer({
+    'ra':  68.5 ,
+    'dec':  45.2666666666667 ,
+    'label': ' NGC 1605 ',
+    'colour': ' rgb(0,0,220) '});"
+"80","planetarium.addPointer({
+    'ra':  68.75 ,
+    'dec':  -64.25 ,
+    'label': ' NGC 1641 ',
+    'colour': ' rgb(0,0,220) '});"
+"81","planetarium.addPointer({
+    'ra':  71.25 ,
+    'dec':  19.0833333333333 ,
+    'label': ' NGC 1647 ',
+    'colour': ' rgb(0,0,220) '});"
+"82","planetarium.addPointer({
+    'ra':  72 ,
+    'dec':  10.9166666666667 ,
+    'label': ' NGC 1662 ',
+    'colour': ' rgb(0,0,220) '});"
+"83","planetarium.addPointer({
+    'ra':  72.25 ,
+    'dec':  13.15 ,
+    'label': ' NGC 1663 ',
+    'colour': ' rgb(0,0,220) '});"
+"84","planetarium.addPointer({
+    'ra':  72.75 ,
+    'dec':  43.6666666666667 ,
+    'label': ' NGC 1664 ',
+    'colour': ' rgb(0,0,220) '});"
+"85","planetarium.addPointer({
+    'ra':  70.5 ,
+    'dec':  -68.1833333333333 ,
+    'label': ' NGC 1673 ',
+    'colour': ' rgb(0,0,220) '});"
+"86","planetarium.addPointer({
+    'ra':  70.75 ,
+    'dec':  -67.1833333333333 ,
+    'label': ' NGC 1676 ',
+    'colour': ' rgb(0,0,220) '});"
+"87","planetarium.addPointer({
+    'ra':  72 ,
+    'dec':  -67.7666666666667 ,
+    'label': ' NGC 1696 ',
+    'colour': ' rgb(0,0,220) '});"
+"88","planetarium.addPointer({
+    'ra':  72.25 ,
+    'dec':  -68.15 ,
+    'label': ' NGC 1702 ',
+    'colour': ' rgb(0,0,220) '});"
+"89","planetarium.addPointer({
+    'ra':  72.25 ,
+    'dec':  -68.25 ,
+    'label': ' NGC 1704 ',
+    'colour': ' rgb(0,0,220) '});"
+"90","planetarium.addPointer({
+    'ra':  75.75 ,
+    'dec':  52.8166666666667 ,
+    'label': ' NGC 1708 ',
+    'colour': ' rgb(0,0,220) '});"
+"91","planetarium.addPointer({
+    'ra':  73 ,
+    'dec':  -66.95 ,
+    'label': ' NGC 1718 ',
+    'colour': ' rgb(0,0,220) '});"
+"92","planetarium.addPointer({
+    'ra':  75.75 ,
+    'dec':  49.4833333333333 ,
+    'label': ' NGC 1724 ',
+    'colour': ' rgb(0,0,220) '});"
+"93","planetarium.addPointer({
+    'ra':  73.25 ,
+    'dec':  -67.35 ,
+    'label': ' NGC 1732 ',
+    'colour': ' rgb(0,0,220) '});"
+"94","planetarium.addPointer({
+    'ra':  73.5 ,
+    'dec':  -65.3333333333333 ,
+    'label': ' NGC 1733 ',
+    'colour': ' rgb(0,0,220) '});"
+"95","planetarium.addPointer({
+    'ra':  73.25 ,
+    'dec':  -67.2333333333333 ,
+    'label': ' NGC 1734 ',
+    'colour': ' rgb(0,0,220) '});"
+"96","planetarium.addPointer({
+    'ra':  73.5 ,
+    'dec':  -66.9166666666667 ,
+    'label': ' NGC 1735 ',
+    'colour': ' rgb(0,0,220) '});"
+"97","planetarium.addPointer({
+    'ra':  75.75 ,
+    'dec':  23.7666666666667 ,
+    'label': ' NGC 1746 ',
+    'colour': ' rgb(0,0,220) '});"
+"98","planetarium.addPointer({
+    'ra':  73.75 ,
+    'dec':  -66.8333333333333 ,
+    'label': ' NGC 1747 ',
+    'colour': ' rgb(0,0,220) '});"
+"99","planetarium.addPointer({
+    'ra':  73.5 ,
+    'dec':  -67.8166666666667 ,
+    'label': ' NGC 1749 ',
+    'colour': ' rgb(0,0,220) '});"
+"100","planetarium.addPointer({
+    'ra':  76 ,
+    'dec':  23.6333333333333 ,
+    'label': ' NGC 1750 ',
+    'colour': ' rgb(0,0,220) '});"
+"101","planetarium.addPointer({
+    'ra':  76 ,
+    'dec':  23.7666666666667 ,
+    'label': ' NGC 1758 ',
+    'colour': ' rgb(0,0,220) '});"
+"102","planetarium.addPointer({
+    'ra':  74 ,
+    'dec':  -66.3166666666667 ,
+    'label': ' NGC 1764 ',
+    'colour': ' rgb(0,0,220) '});"
+"103","planetarium.addPointer({
+    'ra':  73.75 ,
+    'dec':  -69.7833333333333 ,
+    'label': ' NGC 1766 ',
+    'colour': ' rgb(0,0,220) '});"
+"104","planetarium.addPointer({
+    'ra':  74 ,
+    'dec':  -68.6 ,
+    'label': ' NGC 1767 ',
+    'colour': ' rgb(0,0,220) '});"
+"105","planetarium.addPointer({
+    'ra':  74.25 ,
+    'dec':  -67.7666666666667 ,
+    'label': ' NGC 1768 ',
+    'colour': ' rgb(0,0,220) '});"
+"106","planetarium.addPointer({
+    'ra':  74 ,
+    'dec':  -68.45 ,
+    'label': ' NGC 1772 ',
+    'colour': ' rgb(0,0,220) '});"
+"107","planetarium.addPointer({
+    'ra':  74.5 ,
+    'dec':  -66.7666666666667 ,
+    'label': ' NGC 1774 ',
+    'colour': ' rgb(0,0,220) '});"
+"108","planetarium.addPointer({
+    'ra':  74 ,
+    'dec':  -69.5833333333333 ,
+    'label': ' NGC 1775 ',
+    'colour': ' rgb(0,0,220) '});"
+"109","planetarium.addPointer({
+    'ra':  74.5 ,
+    'dec':  -65.5833333333333 ,
+    'label': ' NGC 1776 ',
+    'colour': ' rgb(0,0,220) '});"
+"110","planetarium.addPointer({
+    'ra':  77 ,
+    'dec':  37.0166666666667 ,
+    'label': ' NGC 1778 ',
+    'colour': ' rgb(0,0,220) '});"
+"111","planetarium.addPointer({
+    'ra':  74.25 ,
+    'dec':  -68.6166666666667 ,
+    'label': ' NGC 1782 ',
+    'colour': ' rgb(0,0,220) '});"
+"112","planetarium.addPointer({
+    'ra':  75.25 ,
+    'dec':  -64.1833333333333 ,
+    'label': ' NGC 1787 ',
+    'colour': ' rgb(0,0,220) '});"
+"113","planetarium.addPointer({
+    'ra':  77.5 ,
+    'dec':  52.05 ,
+    'label': ' NGC 1790 ',
+    'colour': ' rgb(0,0,220) '});"
+"114","planetarium.addPointer({
+    'ra':  74.75 ,
+    'dec':  -69.8333333333333 ,
+    'label': ' NGC 1791 ',
+    'colour': ' rgb(0,0,220) '});"
+"115","planetarium.addPointer({
+    'ra':  74.75 ,
+    'dec':  -68.45 ,
+    'label': ' NGC 1793 ',
+    'colour': ' rgb(0,0,220) '});"
+"116","planetarium.addPointer({
+    'ra':  74.75 ,
+    'dec':  -68.2 ,
+    'label': ' NGC 1795 ',
+    'colour': ' rgb(0,0,220) '});"
+"117","planetarium.addPointer({
+    'ra':  77.75 ,
+    'dec':  47.6833333333333 ,
+    'label': ' NGC 1798 ',
+    'colour': ' rgb(0,0,220) '});"
+"118","planetarium.addPointer({
+    'ra':  77.5 ,
+    'dec':  24.1166666666667 ,
+    'label': ' NGC 1802 ',
+    'colour': ' rgb(0,0,220) '});"
+"119","planetarium.addPointer({
+    'ra':  75.25 ,
+    'dec':  -68.9333333333333 ,
+    'label': ' NGC 1804 ',
+    'colour': ' rgb(0,0,220) '});"
+"120","planetarium.addPointer({
+    'ra':  77.5 ,
+    'dec':  16.5 ,
+    'label': ' NGC 1807 ',
+    'colour': ' rgb(0,0,220) '});"
+"121","planetarium.addPointer({
+    'ra':  75.75 ,
+    'dec':  -65.6333333333333 ,
+    'label': ' NGC 1810 ',
+    'colour': ' rgb(0,0,220) '});"
+"122","planetarium.addPointer({
+    'ra':  75.5 ,
+    'dec':  -69.6833333333333 ,
+    'label': ' NGC 1813 ',
+    'colour': ' rgb(0,0,220) '});"
+"123","planetarium.addPointer({
+    'ra':  75.5 ,
+    'dec':  -69.3833333333333 ,
+    'label': ' NGC 1815 ',
+    'colour': ' rgb(0,0,220) '});"
+"124","planetarium.addPointer({
+    'ra':  75.75 ,
+    'dec':  -66.75 ,
+    'label': ' NGC 1816 ',
+    'colour': ' rgb(0,0,220) '});"
+"125","planetarium.addPointer({
+    'ra':  78 ,
+    'dec':  16.6833333333333 ,
+    'label': ' NGC 1817 ',
+    'colour': ' rgb(0,0,220) '});"
+"126","planetarium.addPointer({
+    'ra':  76 ,
+    'dec':  -66.75 ,
+    'label': ' NGC 1820 ',
+    'colour': ' rgb(0,0,220) '});"
+"127","planetarium.addPointer({
+    'ra':  76.25 ,
+    'dec':  -65.8 ,
+    'label': ' NGC 1822 ',
+    'colour': ' rgb(0,0,220) '});"
+"128","planetarium.addPointer({
+    'ra':  75.75 ,
+    'dec':  -69.6666666666667 ,
+    'label': ' NGC 1823 ',
+    'colour': ' rgb(0,0,220) '});"
+"129","planetarium.addPointer({
+    'ra':  76 ,
+    'dec':  -67.0833333333333 ,
+    'label': ' NGC 1825 ',
+    'colour': ' rgb(0,0,220) '});"
+"130","planetarium.addPointer({
+    'ra':  76.25 ,
+    'dec':  -65.7833333333333 ,
+    'label': ' NGC 1826 ',
+    'colour': ' rgb(0,0,220) '});"
+"131","planetarium.addPointer({
+    'ra':  76 ,
+    'dec':  -68.6166666666667 ,
+    'label': ' NGC 1828 ',
+    'colour': ' rgb(0,0,220) '});"
+"132","planetarium.addPointer({
+    'ra':  76 ,
+    'dec':  -68.6666666666667 ,
+    'label': ' NGC 1830 ',
+    'colour': ' rgb(0,0,220) '});"
+"133","planetarium.addPointer({
+    'ra':  76.25 ,
+    'dec':  -68.8 ,
+    'label': ' NGC 1834 ',
+    'colour': ' rgb(0,0,220) '});"
+"134","planetarium.addPointer({
+    'ra':  76.25 ,
+    'dec':  -67.3833333333333 ,
+    'label': ' NGC 1836 ',
+    'colour': ' rgb(0,0,220) '});"
+"135","planetarium.addPointer({
+    'ra':  76 ,
+    'dec':  -69.3 ,
+    'label': ' NGC 1837 ',
+    'colour': ' rgb(0,0,220) '});"
+"136","planetarium.addPointer({
+    'ra':  76.5 ,
+    'dec':  -67.5666666666667 ,
+    'label': ' NGC 1838 ',
+    'colour': ' rgb(0,0,220) '});"
+"137","planetarium.addPointer({
+    'ra':  76.5 ,
+    'dec':  -67.3833333333333 ,
+    'label': ' NGC 1839 ',
+    'colour': ' rgb(0,0,220) '});"
+"138","planetarium.addPointer({
+    'ra':  76.25 ,
+    'dec':  -70.25 ,
+    'label': ' NGC 1840 ',
+    'colour': ' rgb(0,0,220) '});"
+"139","planetarium.addPointer({
+    'ra':  76.75 ,
+    'dec':  -66.7333333333333 ,
+    'label': ' NGC 1842 ',
+    'colour': ' rgb(0,0,220) '});"
+"140","planetarium.addPointer({
+    'ra':  76.75 ,
+    'dec':  -66.6833333333333 ,
+    'label': ' NGC 1844 ',
+    'colour': ' rgb(0,0,220) '});"
+"141","planetarium.addPointer({
+    'ra':  76.75 ,
+    'dec':  -67.0333333333333 ,
+    'label': ' NGC 1847 ',
+    'colour': ' rgb(0,0,220) '});"
+"142","planetarium.addPointer({
+    'ra':  76.75 ,
+    'dec':  -70.8166666666667 ,
+    'label': ' NGC 1848 ',
+    'colour': ' rgb(0,0,220) '});"
+"143","planetarium.addPointer({
+    'ra':  77.25 ,
+    'dec':  -65.7 ,
+    'label': ' NGC 1849 ',
+    'colour': ' rgb(0,0,220) '});"
+"144","planetarium.addPointer({
+    'ra':  80 ,
+    'dec':  39.3333333333333 ,
+    'label': ' NGC 1857 ',
+    'colour': ' rgb(0,0,220) '});"
+"145","planetarium.addPointer({
+    'ra':  77.75 ,
+    'dec':  -64.7666666666667 ,
+    'label': ' NGC 1859 ',
+    'colour': ' rgb(0,0,220) '});"
+"146","planetarium.addPointer({
+    'ra':  77.5 ,
+    'dec':  -67.25 ,
+    'label': ' NGC 1860 ',
+    'colour': ' rgb(0,0,220) '});"
+"147","planetarium.addPointer({
+    'ra':  77.5 ,
+    'dec':  -69.2333333333333 ,
+    'label': ' NGC 1861 ',
+    'colour': ' rgb(0,0,220) '});"
+"148","planetarium.addPointer({
+    'ra':  78 ,
+    'dec':  -65.85 ,
+    'label': ' NGC 1862 ',
+    'colour': ' rgb(0,0,220) '});"
+"149","planetarium.addPointer({
+    'ra':  77.75 ,
+    'dec':  -67.2833333333333 ,
+    'label': ' NGC 1863 ',
+    'colour': ' rgb(0,0,220) '});"
+"150","planetarium.addPointer({
+    'ra':  78 ,
+    'dec':  -66.3833333333333 ,
+    'label': ' NGC 1864 ',
+    'colour': ' rgb(0,0,220) '});"
+"151","planetarium.addPointer({
+    'ra':  78 ,
+    'dec':  -67.2333333333333 ,
+    'label': ' NGC 1865 ',
+    'colour': ' rgb(0,0,220) '});"
+"152","planetarium.addPointer({
+    'ra':  78.25 ,
+    'dec':  -65.7166666666667 ,
+    'label': ' NGC 1867 ',
+    'colour': ' rgb(0,0,220) '});"
+"153","planetarium.addPointer({
+    'ra':  78 ,
+    'dec':  -69.5333333333333 ,
+    'label': ' NGC 1878 ',
+    'colour': ' rgb(0,0,220) '});"
+"154","planetarium.addPointer({
+    'ra':  78.25 ,
+    'dec':  -68.7166666666667 ,
+    'label': ' NGC 1881 ',
+    'colour': ' rgb(0,0,220) '});"
+"155","planetarium.addPointer({
+    'ra':  78.75 ,
+    'dec':  -65.8833333333333 ,
+    'label': ' NGC 1882 ',
+    'colour': ' rgb(0,0,220) '});"
+"156","planetarium.addPointer({
+    'ra':  81.25 ,
+    'dec':  46.4833333333333 ,
+    'label': ' NGC 1883 ',
+    'colour': ' rgb(0,0,220) '});"
+"157","planetarium.addPointer({
+    'ra':  78.75 ,
+    'dec':  -67.0333333333333 ,
+    'label': ' NGC 1885 ',
+    'colour': ' rgb(0,0,220) '});"
+"158","planetarium.addPointer({
+    'ra':  79 ,
+    'dec':  -65.6833333333333 ,
+    'label': ' NGC 1887 ',
+    'colour': ' rgb(0,0,220) '});"
+"159","planetarium.addPointer({
+    'ra':  78.25 ,
+    'dec':  -71.9333333333333 ,
+    'label': ' NGC 1890 ',
+    'colour': ' rgb(0,0,220) '});"
+"160","planetarium.addPointer({
+    'ra':  80.25 ,
+    'dec':  -34.2166666666667 ,
+    'label': ' NGC 1891 ',
+    'colour': ' rgb(0,0,220) '});"
+"161","planetarium.addPointer({
+    'ra':  80.5 ,
+    'dec':  33.4 ,
+    'label': ' NGC 1893 ',
+    'colour': ' rgb(0,0,220) '});"
+"162","planetarium.addPointer({
+    'ra':  78.75 ,
+    'dec':  -68.5333333333333 ,
+    'label': ' NGC 1894 ',
+    'colour': ' rgb(0,0,220) '});"
+"163","planetarium.addPointer({
+    'ra':  81.25 ,
+    'dec':  29.25 ,
+    'label': ' NGC 1896 ',
+    'colour': ' rgb(0,0,220) '});"
+"164","planetarium.addPointer({
+    'ra':  79.25 ,
+    'dec':  -66.55 ,
+    'label': ' NGC 1897 ',
+    'colour': ' rgb(0,0,220) '});"
+"165","planetarium.addPointer({
+    'ra':  79 ,
+    'dec':  -68.35 ,
+    'label': ' NGC 1898 ',
+    'colour': ' rgb(0,0,220) '});"
+"166","planetarium.addPointer({
+    'ra':  79.75 ,
+    'dec':  -62.9833333333333 ,
+    'label': ' NGC 1900 ',
+    'colour': ' rgb(0,0,220) '});"
+"167","planetarium.addPointer({
+    'ra':  79.5 ,
+    'dec':  -67.5666666666667 ,
+    'label': ' NGC 1901 ',
+    'colour': ' rgb(0,0,220) '});"
+"168","planetarium.addPointer({
+    'ra':  79.5 ,
+    'dec':  -65.3833333333333 ,
+    'label': ' NGC 1902 ',
+    'colour': ' rgb(0,0,220) '});"
+"169","planetarium.addPointer({
+    'ra':  79.5 ,
+    'dec':  -66.7333333333333 ,
+    'label': ' NGC 1905 ',
+    'colour': ' rgb(0,0,220) '});"
+"170","planetarium.addPointer({
+    'ra':  82 ,
+    'dec':  35.3166666666667 ,
+    'label': ' NGC 1907 ',
+    'colour': ' rgb(0,0,220) '});"
+"171","planetarium.addPointer({
+    'ra':  79.75 ,
+    'dec':  -65.3166666666667 ,
+    'label': ' NGC 1911 ',
+    'colour': ' rgb(0,0,220) '});"
+"172","planetarium.addPointer({
+    'ra':  82 ,
+    'dec':  35.85 ,
+    'label': ' NGC 1912 ',
+    'colour': ' rgb(0,0,220) '});"
+"173","planetarium.addPointer({
+    'ra':  79.5 ,
+    'dec':  -68.4666666666667 ,
+    'label': ' NGC 1913 ',
+    'colour': ' rgb(0,0,220) '});"
+"174","planetarium.addPointer({
+    'ra':  79.75 ,
+    'dec':  -68.2166666666667 ,
+    'label': ' NGC 1921 ',
+    'colour': ' rgb(0,0,220) '});"
+"175","planetarium.addPointer({
+    'ra':  79.75 ,
+    'dec':  -68.5666666666667 ,
+    'label': ' NGC 1922 ',
+    'colour': ' rgb(0,0,220) '});"
+"176","planetarium.addPointer({
+    'ra':  80 ,
+    'dec':  -68.5333333333333 ,
+    'label': ' NGC 1928 ',
+    'colour': ' rgb(0,0,220) '});"
+"177","planetarium.addPointer({
+    'ra':  80.25 ,
+    'dec':  -66.1 ,
+    'label': ' NGC 1929 ',
+    'colour': ' rgb(0,0,220) '});"
+"178","planetarium.addPointer({
+    'ra':  82.75 ,
+    'dec':  34.2333333333333 ,
+    'label': ' NGC 1931 ',
+    'colour': ' rgb(0,0,220) '});"
+"179","planetarium.addPointer({
+    'ra':  80.5 ,
+    'dec':  -65.85 ,
+    'label': ' NGC 1933 ',
+    'colour': ' rgb(0,0,220) '});"
+"180","planetarium.addPointer({
+    'ra':  81 ,
+    'dec':  -62.0666666666667 ,
+    'label': ' NGC 1942 ',
+    'colour': ' rgb(0,0,220) '});"
+"181","planetarium.addPointer({
+    'ra':  81.25 ,
+    'dec':  -65.6166666666667 ,
+    'label': ' NGC 1946 ',
+    'colour': ' rgb(0,0,220) '});"
+"182","planetarium.addPointer({
+    'ra':  81 ,
+    'dec':  -68.1 ,
+    'label': ' NGC 1950 ',
+    'colour': ' rgb(0,0,220) '});"
+"183","planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -65.4166666666667 ,
+    'label': ' NGC 1951 ',
+    'colour': ' rgb(0,0,220) '});"
+"184","planetarium.addPointer({
+    'ra':  81.25 ,
+    'dec':  -68.0833333333333 ,
+    'label': ' NGC 1959 ',
+    'colour': ' rgb(0,0,220) '});"
+"185","planetarium.addPointer({
+    'ra':  84 ,
+    'dec':  34.1333333333333 ,
+    'label': ' NGC 1960 ',
+    'colour': ' rgb(0,0,220) '});"
+"186","planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -67.1666666666667 ,
+    'label': ' NGC 1962 ',
+    'colour': ' rgb(0,0,220) '});"
+"187","planetarium.addPointer({
+    'ra':  83 ,
+    'dec':  -35.6166666666667 ,
+    'label': ' NGC 1963 ',
+    'colour': ' rgb(0,0,220) '});"
+"188","planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -67.2 ,
+    'label': ' NGC 1965 ',
+    'colour': ' rgb(0,0,220) '});"
+"189","planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -67.1833333333333 ,
+    'label': ' NGC 1966 ',
+    'colour': ' rgb(0,0,220) '});"
+"190","planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -68.9 ,
+    'label': ' NGC 1967 ',
+    'colour': ' rgb(0,0,220) '});"
+"191","planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -68.1666666666667 ,
+    'label': ' NGC 1969 ',
+    'colour': ' rgb(0,0,220) '});"
+"192","planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -67.1666666666667 ,
+    'label': ' NGC 1970 ',
+    'colour': ' rgb(0,0,220) '});"
+"193","planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -68.15 ,
+    'label': ' NGC 1971 ',
+    'colour': ' rgb(0,0,220) '});"
+"194","planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -68.1666666666667 ,
+    'label': ' NGC 1972 ',
+    'colour': ' rgb(0,0,220) '});"
+"195","planetarium.addPointer({
+    'ra':  81.75 ,
+    'dec':  -66.5833333333333 ,
+    'label': ' NGC 1974 ',
+    'colour': ' rgb(0,0,220) '});"
+"196","planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -4.61666666666667 ,
+    'label': ' NGC 1976 ',
+    'colour': ' rgb(0,0,220) '});"
+"197","planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -3.16666666666667 ,
+    'label': ' NGC 1977 ',
+    'colour': ' rgb(0,0,220) '});"
+"198","planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -4.1 ,
+    'label': ' NGC 1980 ',
+    'colour': ' rgb(0,0,220) '});"
+"199","planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -3.58333333333333 ,
+    'label': ' NGC 1981 ',
+    'colour': ' rgb(0,0,220) '});"
+"200","planetarium.addPointer({
+    'ra':  81.75 ,
+    'dec':  -67.0166666666667 ,
+    'label': ' NGC 1983 ',
+    'colour': ' rgb(0,0,220) '});"
+"201","planetarium.addPointer({
+    'ra':  81.75 ,
+    'dec':  -68.8666666666667 ,
+    'label': ' NGC 1984 ',
+    'colour': ' rgb(0,0,220) '});"
+"202","planetarium.addPointer({
+    'ra':  82 ,
+    'dec':  -68.8666666666667 ,
+    'label': ' NGC 1994 ',
+    'colour': ' rgb(0,0,220) '});"
+"203","planetarium.addPointer({
+    'ra':  84.5 ,
+    'dec':  25.8166666666667 ,
+    'label': ' NGC 1996 ',
+    'colour': ' rgb(0,0,220) '});"
+"204","planetarium.addPointer({
+    'ra':  82.5 ,
+    'dec':  -62.8166666666667 ,
+    'label': ' NGC 1997 ',
+    'colour': ' rgb(0,0,220) '});"
+"205","planetarium.addPointer({
+    'ra':  81.75 ,
+    'dec':  -70.1333333333333 ,
+    'label': ' NGC 2000 ',
+    'colour': ' rgb(0,0,220) '});"
+"206","planetarium.addPointer({
+    'ra':  82.5 ,
+    'dec':  -68.8333333333333 ,
+    'label': ' NGC 2009 ',
+    'colour': ' rgb(0,0,220) '});"
+"207","planetarium.addPointer({
+    'ra':  82.5 ,
+    'dec':  -69.1833333333333 ,
+    'label': ' NGC 2010 ',
+    'colour': ' rgb(0,0,220) '});"
+"208","planetarium.addPointer({
+    'ra':  83 ,
+    'dec':  -66.4833333333333 ,
+    'label': ' NGC 2011 ',
+    'colour': ' rgb(0,0,220) '});"
+"209","planetarium.addPointer({
+    'ra':  86 ,
+    'dec':  55.7833333333333 ,
+    'label': ' NGC 2013 ',
+    'colour': ' rgb(0,0,220) '});"
+"210","planetarium.addPointer({
+    'ra':  82.75 ,
+    'dec':  -68.0666666666667 ,
+    'label': ' NGC 2016 ',
+    'colour': ' rgb(0,0,220) '});"
+"211","planetarium.addPointer({
+    'ra':  84.75 ,
+    'dec':  -16.1666666666667 ,
+    'label': ' NGC 2017 ',
+    'colour': ' rgb(0,0,220) '});"
+"212","planetarium.addPointer({
+    'ra':  83.25 ,
+    'dec':  -66.55 ,
+    'label': ' NGC 2021 ',
+    'colour': ' rgb(0,0,220) '});"
+"213","planetarium.addPointer({
+    'ra':  83 ,
+    'dec':  -70.3 ,
+    'label': ' NGC 2025 ',
+    'colour': ' rgb(0,0,220) '});"
+"214","planetarium.addPointer({
+    'ra':  85.75 ,
+    'dec':  20.1333333333333 ,
+    'label': ' NGC 2026 ',
+    'colour': ' rgb(0,0,220) '});"
+"215","planetarium.addPointer({
+    'ra':  83.5 ,
+    'dec':  -65.1 ,
+    'label': ' NGC 2027 ',
+    'colour': ' rgb(0,0,220) '});"
+"216","planetarium.addPointer({
+    'ra':  83.25 ,
+    'dec':  -68.05 ,
+    'label': ' NGC 2028 ',
+    'colour': ' rgb(0,0,220) '});"
+"217","planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -65.9666666666667 ,
+    'label': ' NGC 2029 ',
+    'colour': ' rgb(0,0,220) '});"
+"218","planetarium.addPointer({
+    'ra':  83.5 ,
+    'dec':  -69.95 ,
+    'label': ' NGC 2036 ',
+    'colour': ' rgb(0,0,220) '});"
+"219","planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -68.2833333333333 ,
+    'label': ' NGC 2037 ',
+    'colour': ' rgb(0,0,220) '});"
+"220","planetarium.addPointer({
+    'ra':  83.5 ,
+    'dec':  -69.45 ,
+    'label': ' NGC 2038 ',
+    'colour': ' rgb(0,0,220) '});"
+"221","planetarium.addPointer({
+    'ra':  84 ,
+    'dec':  -67.0833333333333 ,
+    'label': ' NGC 2042 ',
+    'colour': ' rgb(0,0,220) '});"
+"222","planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -69.9333333333333 ,
+    'label': ' NGC 2043 ',
+    'colour': ' rgb(0,0,220) '});"
+"223","planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -69.7666666666667 ,
+    'label': ' NGC 2046 ',
+    'colour': ' rgb(0,0,220) '});"
+"224","planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -69.8166666666667 ,
+    'label': ' NGC 2047 ',
+    'colour': ' rgb(0,0,220) '});"
+"225","planetarium.addPointer({
+    'ra':  84 ,
+    'dec':  -71 ,
+    'label': ' NGC 2051 ',
+    'colour': ' rgb(0,0,220) '});"
+"226","planetarium.addPointer({
+    'ra':  84.25 ,
+    'dec':  -66.6 ,
+    'label': ' NGC 2053 ',
+    'colour': ' rgb(0,0,220) '});"
+"227","planetarium.addPointer({
+    'ra':  84 ,
+    'dec':  -69.3333333333333 ,
+    'label': ' NGC 2056 ',
+    'colour': ' rgb(0,0,220) '});"
+"228","planetarium.addPointer({
+    'ra':  84 ,
+    'dec':  -69.7333333333333 ,
+    'label': ' NGC 2057 ',
+    'colour': ' rgb(0,0,220) '});"
+"229","planetarium.addPointer({
+    'ra':  84 ,
+    'dec':  -69.85 ,
+    'label': ' NGC 2058 ',
+    'colour': ' rgb(0,0,220) '});"
+"230","planetarium.addPointer({
+    'ra':  84.25 ,
+    'dec':  -69.8833333333333 ,
+    'label': ' NGC 2059 ',
+    'colour': ' rgb(0,0,220) '});"
+"231","planetarium.addPointer({
+    'ra':  85.5 ,
+    'dec':  -34 ,
+    'label': ' NGC 2061 ',
+    'colour': ' rgb(0,0,220) '});"
+"232","planetarium.addPointer({
+    'ra':  85 ,
+    'dec':  -65.1333333333333 ,
+    'label': ' NGC 2062 ',
+    'colour': ' rgb(0,0,220) '});"
+"233","planetarium.addPointer({
+    'ra':  84.25 ,
+    'dec':  -69.7666666666667 ,
+    'label': ' NGC 2065 ',
+    'colour': ' rgb(0,0,220) '});"
+"234","planetarium.addPointer({
+    'ra':  84.25 ,
+    'dec':  -69.85 ,
+    'label': ' NGC 2066 ',
+    'colour': ' rgb(0,0,220) '});"
+"235","planetarium.addPointer({
+    'ra':  84.5 ,
+    'dec':  -69.7666666666667 ,
+    'label': ' NGC 2072 ',
+    'colour': ' rgb(0,0,220) '});"
+"236","planetarium.addPointer({
+    'ra':  85 ,
+    'dec':  -67.55 ,
+    'label': ' NGC 2088 ',
+    'colour': ' rgb(0,0,220) '});"
+"237","planetarium.addPointer({
+    'ra':  85 ,
+    'dec':  -68.5666666666667 ,
+    'label': ' NGC 2091 ',
+    'colour': ' rgb(0,0,220) '});"
+"238","planetarium.addPointer({
+    'ra':  85.25 ,
+    'dec':  -68.7833333333333 ,
+    'label': ' NGC 2092 ',
+    'colour': ' rgb(0,0,220) '});"
+"239","planetarium.addPointer({
+    'ra':  85.5 ,
+    'dec':  -67.65 ,
+    'label': ' NGC 2094 ',
+    'colour': ' rgb(0,0,220) '});"
+"240","planetarium.addPointer({
+    'ra':  85.5 ,
+    'dec':  -66.6833333333333 ,
+    'label': ' NGC 2095 ',
+    'colour': ' rgb(0,0,220) '});"
+"241","planetarium.addPointer({
+    'ra':  85.5 ,
+    'dec':  -67.55 ,
+    'label': ' NGC 2096 ',
+    'colour': ' rgb(0,0,220) '});"
+"242","planetarium.addPointer({
+    'ra':  85.5 ,
+    'dec':  -67.7333333333333 ,
+    'label': ' NGC 2098 ',
+    'colour': ' rgb(0,0,220) '});"
+"243","planetarium.addPointer({
+    'ra':  88 ,
+    'dec':  32.55 ,
+    'label': ' NGC 2099 ',
+    'colour': ' rgb(0,0,220) '});"
+"244","planetarium.addPointer({
+    'ra':  85.5 ,
+    'dec':  -68.5166666666667 ,
+    'label': ' NGC 2102 ',
+    'colour': ' rgb(0,0,220) '});"
+"245","planetarium.addPointer({
+    'ra':  85.75 ,
+    'dec':  -69.3666666666667 ,
+    'label': ' NGC 2107 ',
+    'colour': ' rgb(0,0,220) '});"
+"246","planetarium.addPointer({
+    'ra':  86 ,
+    'dec':  -67.4666666666667 ,
+    'label': ' NGC 2109 ',
+    'colour': ' rgb(0,0,220) '});"
+"247","planetarium.addPointer({
+    'ra':  86 ,
+    'dec':  -69.0166666666667 ,
+    'label': ' NGC 2111 ',
+    'colour': ' rgb(0,0,220) '});"
+"248","planetarium.addPointer({
+    'ra':  88.25 ,
+    'dec':  0.4 ,
+    'label': ' NGC 2112 ',
+    'colour': ' rgb(0,0,220) '});"
+"249","planetarium.addPointer({
+    'ra':  86.5 ,
+    'dec':  -67.9666666666667 ,
+    'label': ' NGC 2114 ',
+    'colour': ' rgb(0,0,220) '});"
+"250","planetarium.addPointer({
+    'ra':  86.75 ,
+    'dec':  -67.5 ,
+    'label': ' NGC 2116 ',
+    'colour': ' rgb(0,0,220) '});"
+"251","planetarium.addPointer({
+    'ra':  86.75 ,
+    'dec':  -66.55 ,
+    'label': ' NGC 2117 ',
+    'colour': ' rgb(0,0,220) '});"
+"252","planetarium.addPointer({
+    'ra':  86.75 ,
+    'dec':  -68.8833333333333 ,
+    'label': ' NGC 2118 ',
+    'colour': ' rgb(0,0,220) '});"
+"253","planetarium.addPointer({
+    'ra':  87.5 ,
+    'dec':  -68.5333333333333 ,
+    'label': ' NGC 2125 ',
+    'colour': ' rgb(0,0,220) '});"
+"254","planetarium.addPointer({
+    'ra':  90.5 ,
+    'dec':  49.85 ,
+    'label': ' NGC 2126 ',
+    'colour': ' rgb(0,0,220) '});"
+"255","planetarium.addPointer({
+    'ra':  87.75 ,
+    'dec':  -68.65 ,
+    'label': ' NGC 2127 ',
+    'colour': ' rgb(0,0,220) '});"
+"256","planetarium.addPointer({
+    'ra':  90.25 ,
+    'dec':  23.3166666666667 ,
+    'label': ' NGC 2129 ',
+    'colour': ' rgb(0,0,220) '});"
+"257","planetarium.addPointer({
+    'ra':  88.75 ,
+    'dec':  -58.0833333333333 ,
+    'label': ' NGC 2132 ',
+    'colour': ' rgb(0,0,220) '});"
+"258","planetarium.addPointer({
+    'ra':  87.75 ,
+    'dec':  -70.8333333333333 ,
+    'label': ' NGC 2133 ',
+    'colour': ' rgb(0,0,220) '});"
+"259","planetarium.addPointer({
+    'ra':  88.25 ,
+    'dec':  -68.5333333333333 ,
+    'label': ' NGC 2137 ',
+    'colour': ' rgb(0,0,220) '});"
+"260","planetarium.addPointer({
+    'ra':  88.5 ,
+    'dec':  -67.4166666666667 ,
+    'label': ' NGC 2140 ',
+    'colour': ' rgb(0,0,220) '});"
+"261","planetarium.addPointer({
+    'ra':  90.5 ,
+    'dec':  10.4333333333333 ,
+    'label': ' NGC 2141 ',
+    'colour': ' rgb(0,0,220) '});"
+"262","planetarium.addPointer({
+    'ra':  90.75 ,
+    'dec':  5.81666666666667 ,
+    'label': ' NGC 2143 ',
+    'colour': ' rgb(0,0,220) '});"
+"263","planetarium.addPointer({
+    'ra':  88.5 ,
+    'dec':  -69.1 ,
+    'label': ' NGC 2145 ',
+    'colour': ' rgb(0,0,220) '});"
+"264","planetarium.addPointer({
+    'ra':  88.75 ,
+    'dec':  -67.8 ,
+    'label': ' NGC 2147 ',
+    'colour': ' rgb(0,0,220) '});"
+"265","planetarium.addPointer({
+    'ra':  89 ,
+    'dec':  -68.9833333333333 ,
+    'label': ' NGC 2151 ',
+    'colour': ' rgb(0,0,220) '});"
+"266","planetarium.addPointer({
+    'ra':  91.75 ,
+    'dec':  24.0833333333333 ,
+    'label': ' NGC 2158 ',
+    'colour': ' rgb(0,0,220) '});"
+"267","planetarium.addPointer({
+    'ra':  89.5 ,
+    'dec':  -67.7166666666667 ,
+    'label': ' NGC 2160 ',
+    'colour': ' rgb(0,0,220) '});"
+"268","planetarium.addPointer({
+    'ra':  92.75 ,
+    'dec':  51.6666666666667 ,
+    'label': ' NGC 2165 ',
+    'colour': ' rgb(0,0,220) '});"
+"269","planetarium.addPointer({
+    'ra':  89.75 ,
+    'dec':  -66.0666666666667 ,
+    'label': ' NGC 2166 ',
+    'colour': ' rgb(0,0,220) '});"
+"270","planetarium.addPointer({
+    'ra':  92.25 ,
+    'dec':  24.3333333333333 ,
+    'label': ' NGC 2168 ',
+    'colour': ' rgb(0,0,220) '});"
+"271","planetarium.addPointer({
+    'ra':  92 ,
+    'dec':  13.95 ,
+    'label': ' NGC 2169 ',
+    'colour': ' rgb(0,0,220) '});"
+"272","planetarium.addPointer({
+    'ra':  90 ,
+    'dec':  -67.3666666666667 ,
+    'label': ' NGC 2172 ',
+    'colour': ' rgb(0,0,220) '});"
+"273","planetarium.addPointer({
+    'ra':  92.25 ,
+    'dec':  20.4833333333333 ,
+    'label': ' NGC 2175 ',
+    'colour': ' rgb(0,0,220) '});"
+"274","planetarium.addPointer({
+    'ra':  90.25 ,
+    'dec':  -65.15 ,
+    'label': ' NGC 2176 ',
+    'colour': ' rgb(0,0,220) '});"
+"275","planetarium.addPointer({
+    'ra':  90.25 ,
+    'dec':  -66.2833333333333 ,
+    'label': ' NGC 2177 ',
+    'colour': ' rgb(0,0,220) '});"
+"276","planetarium.addPointer({
+    'ra':  92.25 ,
+    'dec':  4.7 ,
+    'label': ' NGC 2180 ',
+    'colour': ' rgb(0,0,220) '});"
+"277","planetarium.addPointer({
+    'ra':  92.5 ,
+    'dec':  -2.51666666666667 ,
+    'label': ' NGC 2184 ',
+    'colour': ' rgb(0,0,220) '});"
+"278","planetarium.addPointer({
+    'ra':  93 ,
+    'dec':  5.45 ,
+    'label': ' NGC 2186 ',
+    'colour': ' rgb(0,0,220) '});"
+"279","planetarium.addPointer({
+    'ra':  93.75 ,
+    'dec':  39.85 ,
+    'label': ' NGC 2192 ',
+    'colour': ' rgb(0,0,220) '});"
+"280","planetarium.addPointer({
+    'ra':  93.25 ,
+    'dec':  12.8 ,
+    'label': ' NGC 2194 ',
+    'colour': ' rgb(0,0,220) '});"
+"281","planetarium.addPointer({
+    'ra':  94 ,
+    'dec':  5.98333333333333 ,
+    'label': ' NGC 2202 ',
+    'colour': ' rgb(0,0,220) '});"
+"282","planetarium.addPointer({
+    'ra':  93.75 ,
+    'dec':  -17.35 ,
+    'label': ' NGC 2204 ',
+    'colour': ' rgb(0,0,220) '});"
+"283","planetarium.addPointer({
+    'ra':  92.5 ,
+    'dec':  -70.4833333333333 ,
+    'label': ' NGC 2213 ',
+    'colour': ' rgb(0,0,220) '});"
+"284","planetarium.addPointer({
+    'ra':  93 ,
+    'dec':  -67.75 ,
+    'label': ' NGC 2214 ',
+    'colour': ' rgb(0,0,220) '});"
+"285","planetarium.addPointer({
+    'ra':  95 ,
+    'dec':  -6.71666666666667 ,
+    'label': ' NGC 2215 ',
+    'colour': ' rgb(0,0,220) '});"
+"286","planetarium.addPointer({
+    'ra':  95.75 ,
+    'dec':  -3.33333333333333 ,
+    'label': ' NGC 2219 ',
+    'colour': ' rgb(0,0,220) '});"
+"287","planetarium.addPointer({
+    'ra':  96.5 ,
+    'dec':  -8.38333333333333 ,
+    'label': ' NGC 2225 ',
+    'colour': ' rgb(0,0,220) '});"
+"288","planetarium.addPointer({
+    'ra':  96.5 ,
+    'dec':  -8.36666666666667 ,
+    'label': ' NGC 2226 ',
+    'colour': ' rgb(0,0,220) '});"
+"289","planetarium.addPointer({
+    'ra':  97 ,
+    'dec':  -3.16666666666667 ,
+    'label': ' NGC 2232 ',
+    'colour': ' rgb(0,0,220) '});"
+"290","planetarium.addPointer({
+    'ra':  97.25 ,
+    'dec':  16.7166666666667 ,
+    'label': ' NGC 2234 ',
+    'colour': ' rgb(0,0,220) '});"
+"291","planetarium.addPointer({
+    'ra':  97.25 ,
+    'dec':  6.81666666666667 ,
+    'label': ' NGC 2236 ',
+    'colour': ' rgb(0,0,220) '});"
+"292","planetarium.addPointer({
+    'ra':  98.25 ,
+    'dec':  35.25 ,
+    'label': ' NGC 2240 ',
+    'colour': ' rgb(0,0,220) '});"
+"293","planetarium.addPointer({
+    'ra':  95.5 ,
+    'dec':  -67.0833333333333 ,
+    'label': ' NGC 2241 ',
+    'colour': ' rgb(0,0,220) '});"
+"294","planetarium.addPointer({
+    'ra':  97.25 ,
+    'dec':  -30.7333333333333 ,
+    'label': ' NGC 2243 ',
+    'colour': ' rgb(0,0,220) '});"
+"295","planetarium.addPointer({
+    'ra':  97.75 ,
+    'dec':  4.93333333333333 ,
+    'label': ' NGC 2244 ',
+    'colour': ' rgb(0,0,220) '});"
+"296","planetarium.addPointer({
+    'ra':  98.25 ,
+    'dec':  -4.91666666666667 ,
+    'label': ' NGC 2250 ',
+    'colour': ' rgb(0,0,220) '});"
+"297","planetarium.addPointer({
+    'ra':  98.5 ,
+    'dec':  8.35 ,
+    'label': ' NGC 2251 ',
+    'colour': ' rgb(0,0,220) '});"
+"298","planetarium.addPointer({
+    'ra':  98.5 ,
+    'dec':  5.35 ,
+    'label': ' NGC 2252 ',
+    'colour': ' rgb(0,0,220) '});"
+"299","planetarium.addPointer({
+    'ra':  98.75 ,
+    'dec':  7.66666666666667 ,
+    'label': ' NGC 2254 ',
+    'colour': ' rgb(0,0,220) '});"
+"300","planetarium.addPointer({
+    'ra':  99.5 ,
+    'dec':  10.8833333333333 ,
+    'label': ' NGC 2259 ',
+    'colour': ' rgb(0,0,220) '});"
+"301","planetarium.addPointer({
+    'ra':  99.5 ,
+    'dec':  -0.533333333333333 ,
+    'label': ' NGC 2260 ',
+    'colour': ' rgb(0,0,220) '});"
+"302","planetarium.addPointer({
+    'ra':  99.75 ,
+    'dec':  1.13333333333333 ,
+    'label': ' NGC 2262 ',
+    'colour': ' rgb(0,0,220) '});"
+"303","planetarium.addPointer({
+    'ra':  100 ,
+    'dec':  9.88333333333333 ,
+    'label': ' NGC 2264 ',
+    'colour': ' rgb(0,0,220) '});"
+"304","planetarium.addPointer({
+    'ra':  100.25 ,
+    'dec':  11.9 ,
+    'label': ' NGC 2265 ',
+    'colour': ' rgb(0,0,220) '});"
+"305","planetarium.addPointer({
+    'ra':  100.75 ,
+    'dec':  26.9666666666667 ,
+    'label': ' NGC 2266 ',
+    'colour': ' rgb(0,0,220) '});"
+"306","planetarium.addPointer({
+    'ra':  100.75 ,
+    'dec':  4.61666666666667 ,
+    'label': ' NGC 2269 ',
+    'colour': ' rgb(0,0,220) '});"
+"307","planetarium.addPointer({
+    'ra':  100.75 ,
+    'dec':  3.46666666666667 ,
+    'label': ' NGC 2270 ',
+    'colour': ' rgb(0,0,220) '});"
+"308","planetarium.addPointer({
+    'ra':  102 ,
+    'dec':  41.0666666666667 ,
+    'label': ' NGC 2281 ',
+    'colour': ' rgb(0,0,220) '});"
+"309","planetarium.addPointer({
+    'ra':  101.75 ,
+    'dec':  -2.86666666666667 ,
+    'label': ' NGC 2286 ',
+    'colour': ' rgb(0,0,220) '});"
+"310","planetarium.addPointer({
+    'ra':  101.25 ,
+    'dec':  -19.25 ,
+    'label': ' NGC 2287 ',
+    'colour': ' rgb(0,0,220) '});"
+"311","planetarium.addPointer({
+    'ra':  102.75 ,
+    'dec':  -6.93333333333333 ,
+    'label': ' NGC 2299 ',
+    'colour': ' rgb(0,0,220) '});"
+"312","planetarium.addPointer({
+    'ra':  102.75 ,
+    'dec':  0.45 ,
+    'label': ' NGC 2301 ',
+    'colour': ' rgb(0,0,220) '});"
+"313","planetarium.addPointer({
+    'ra':  103.75 ,
+    'dec':  17.9833333333333 ,
+    'label': ' NGC 2304 ',
+    'colour': ' rgb(0,0,220) '});"
+"314","planetarium.addPointer({
+    'ra':  103.5 ,
+    'dec':  -6.8 ,
+    'label': ' NGC 2306 ',
+    'colour': ' rgb(0,0,220) '});"
+"315","planetarium.addPointer({
+    'ra':  104 ,
+    'dec':  -6.83333333333333 ,
+    'label': ' NGC 2309 ',
+    'colour': ' rgb(0,0,220) '});"
+"316","planetarium.addPointer({
+    'ra':  104.25 ,
+    'dec':  -3.4 ,
+    'label': ' NGC 2311 ',
+    'colour': ' rgb(0,0,220) '});"
+"317","planetarium.addPointer({
+    'ra':  104.5 ,
+    'dec':  10.2833333333333 ,
+    'label': ' NGC 2312 ',
+    'colour': ' rgb(0,0,220) '});"
+"318","planetarium.addPointer({
+    'ra':  104.75 ,
+    'dec':  -12.3166666666667 ,
+    'label': ' NGC 2318 ',
+    'colour': ' rgb(0,0,220) '});"
+"319","planetarium.addPointer({
+    'ra':  105 ,
+    'dec':  3.03333333333333 ,
+    'label': ' NGC 2319 ',
+    'colour': ' rgb(0,0,220) '});"
+"320","planetarium.addPointer({
+    'ra':  105.5 ,
+    'dec':  -7.65 ,
+    'label': ' NGC 2323 ',
+    'colour': ' rgb(0,0,220) '});"
+"321","planetarium.addPointer({
+    'ra':  106 ,
+    'dec':  1.03333333333333 ,
+    'label': ' NGC 2324 ',
+    'colour': ' rgb(0,0,220) '});"
+"322","planetarium.addPointer({
+    'ra':  106.5 ,
+    'dec':  27.25 ,
+    'label': ' NGC 2331 ',
+    'colour': ' rgb(0,0,220) '});"
+"323","planetarium.addPointer({
+    'ra':  106.5 ,
+    'dec':  -9.98333333333333 ,
+    'label': ' NGC 2335 ',
+    'colour': ' rgb(0,0,220) '});"
+"324","planetarium.addPointer({
+    'ra':  106.75 ,
+    'dec':  -4.28333333333333 ,
+    'label': ' NGC 2338 ',
+    'colour': ' rgb(0,0,220) '});"
+"325","planetarium.addPointer({
+    'ra':  107 ,
+    'dec':  -9.38333333333333 ,
+    'label': ' NGC 2343 ',
+    'colour': ' rgb(0,0,220) '});"
+"326","planetarium.addPointer({
+    'ra':  107 ,
+    'dec':  -12.8166666666667 ,
+    'label': ' NGC 2345 ',
+    'colour': ' rgb(0,0,220) '});"
+"327","planetarium.addPointer({
+    'ra':  105.75 ,
+    'dec':  -66.6166666666667 ,
+    'label': ' NGC 2348 ',
+    'colour': ' rgb(0,0,220) '});"
+"328","planetarium.addPointer({
+    'ra':  107.5 ,
+    'dec':  -7.41666666666667 ,
+    'label': ' NGC 2349 ',
+    'colour': ' rgb(0,0,220) '});"
+"329","planetarium.addPointer({
+    'ra':  108.25 ,
+    'dec':  -9.51666666666667 ,
+    'label': ' NGC 2351 ',
+    'colour': ' rgb(0,0,220) '});"
+"330","planetarium.addPointer({
+    'ra':  108.25 ,
+    'dec':  -23.9666666666667 ,
+    'label': ' NGC 2352 ',
+    'colour': ' rgb(0,0,220) '});"
+"331","planetarium.addPointer({
+    'ra':  108.5 ,
+    'dec':  -9.75 ,
+    'label': ' NGC 2353 ',
+    'colour': ' rgb(0,0,220) '});"
+"332","planetarium.addPointer({
+    'ra':  108.5 ,
+    'dec':  -24.3166666666667 ,
+    'label': ' NGC 2354 ',
+    'colour': ' rgb(0,0,220) '});"
+"333","planetarium.addPointer({
+    'ra':  109 ,
+    'dec':  13.7333333333333 ,
+    'label': ' NGC 2355 ',
+    'colour': ' rgb(0,0,220) '});"
+"334","planetarium.addPointer({
+    'ra':  109 ,
+    'dec':  -16.8833333333333 ,
+    'label': ' NGC 2358 ',
+    'colour': ' rgb(0,0,220) '});"
+"335","planetarium.addPointer({
+    'ra':  109.25 ,
+    'dec':  -14.3666666666667 ,
+    'label': ' NGC 2360 ',
+    'colour': ' rgb(0,0,220) '});"
+"336","planetarium.addPointer({
+    'ra':  109.5 ,
+    'dec':  -23.05 ,
+    'label': ' NGC 2362 ',
+    'colour': ' rgb(0,0,220) '});"
+"337","planetarium.addPointer({
+    'ra':  110 ,
+    'dec':  -6.46666666666667 ,
+    'label': ' NGC 2364 ',
+    'colour': ' rgb(0,0,220) '});"
+"338","planetarium.addPointer({
+    'ra':  110 ,
+    'dec':  -20.1166666666667 ,
+    'label': ' NGC 2367 ',
+    'colour': ' rgb(0,0,220) '});"
+"339","planetarium.addPointer({
+    'ra':  110.25 ,
+    'dec':  -9.63333333333333 ,
+    'label': ' NGC 2368 ',
+    'colour': ' rgb(0,0,220) '});"
+"340","planetarium.addPointer({
+    'ra':  110.75 ,
+    'dec':  -12.75 ,
+    'label': ' NGC 2374 ',
+    'colour': ' rgb(0,0,220) '});"
+"341","planetarium.addPointer({
+    'ra':  111 ,
+    'dec':  -19.0666666666667 ,
+    'label': ' NGC 2383 ',
+    'colour': ' rgb(0,0,220) '});"
+"342","planetarium.addPointer({
+    'ra':  111.25 ,
+    'dec':  -20.9833333333333 ,
+    'label': ' NGC 2384 ',
+    'colour': ' rgb(0,0,220) '});"
+"343","planetarium.addPointer({
+    'ra':  112 ,
+    'dec':  7.08333333333333 ,
+    'label': ' NGC 2394 ',
+    'colour': ' rgb(0,0,220) '});"
+"344","planetarium.addPointer({
+    'ra':  111.75 ,
+    'dec':  13.6 ,
+    'label': ' NGC 2395 ',
+    'colour': ' rgb(0,0,220) '});"
+"345","planetarium.addPointer({
+    'ra':  112 ,
+    'dec':  -10.2833333333333 ,
+    'label': ' NGC 2396 ',
+    'colour': ' rgb(0,0,220) '});"
+"346","planetarium.addPointer({
+    'ra':  112.25 ,
+    'dec':  -12.05 ,
+    'label': ' NGC 2401 ',
+    'colour': ' rgb(0,0,220) '});"
+"347","planetarium.addPointer({
+    'ra':  115 ,
+    'dec':  71.6666666666667 ,
+    'label': ' NGC 2408 ',
+    'colour': ' rgb(0,0,220) '});"
+"348","planetarium.addPointer({
+    'ra':  112.75 ,
+    'dec':  -16.8166666666667 ,
+    'label': ' NGC 2409 ',
+    'colour': ' rgb(0,0,220) '});"
+"349","planetarium.addPointer({
+    'ra':  113.25 ,
+    'dec':  -12.9166666666667 ,
+    'label': ' NGC 2413 ',
+    'colour': ' rgb(0,0,220) '});"
+"350","planetarium.addPointer({
+    'ra':  113.25 ,
+    'dec':  -14.55 ,
+    'label': ' NGC 2414 ',
+    'colour': ' rgb(0,0,220) '});"
+"351","planetarium.addPointer({
+    'ra':  114.5 ,
+    'dec':  21.5666666666667 ,
+    'label': ' NGC 2420 ',
+    'colour': ' rgb(0,0,220) '});"
+"352","planetarium.addPointer({
+    'ra':  114 ,
+    'dec':  -19.4 ,
+    'label': ' NGC 2421 ',
+    'colour': ' rgb(0,0,220) '});"
+"353","planetarium.addPointer({
+    'ra':  114 ,
+    'dec':  -13.5333333333333 ,
+    'label': ' NGC 2422 ',
+    'colour': ' rgb(0,0,220) '});"
+"354","planetarium.addPointer({
+    'ra':  114.25 ,
+    'dec':  -12.1333333333333 ,
+    'label': ' NGC 2423 ',
+    'colour': ' rgb(0,0,220) '});"
+"355","planetarium.addPointer({
+    'ra':  114.5 ,
+    'dec':  -13.1333333333333 ,
+    'label': ' NGC 2425 ',
+    'colour': ' rgb(0,0,220) '});"
+"356","planetarium.addPointer({
+    'ra':  114.75 ,
+    'dec':  -15.4833333333333 ,
+    'label': ' NGC 2428 ',
+    'colour': ' rgb(0,0,220) '});"
+"357","planetarium.addPointer({
+    'ra':  114.75 ,
+    'dec':  -15.7166666666667 ,
+    'label': ' NGC 2430 ',
+    'colour': ' rgb(0,0,220) '});"
+"358","planetarium.addPointer({
+    'ra':  115 ,
+    'dec':  -18.9333333333333 ,
+    'label': ' NGC 2432 ',
+    'colour': ' rgb(0,0,220) '});"
+"359","planetarium.addPointer({
+    'ra':  115.25 ,
+    'dec':  -13.2 ,
+    'label': ' NGC 2437 ',
+    'colour': ' rgb(0,0,220) '});"
+"360","planetarium.addPointer({
+    'ra':  115 ,
+    'dec':  -30.3166666666667 ,
+    'label': ' NGC 2439 ',
+    'colour': ' rgb(0,0,220) '});"
+"361","planetarium.addPointer({
+    'ra':  116 ,
+    'dec':  -22.15 ,
+    'label': ' NGC 2447 ',
+    'colour': ' rgb(0,0,220) '});"
+"362","planetarium.addPointer({
+    'ra':  116 ,
+    'dec':  -23.3333333333333 ,
+    'label': ' NGC 2448 ',
+    'colour': ' rgb(0,0,220) '});"
+"363","planetarium.addPointer({
+    'ra':  116.25 ,
+    'dec':  -36.0333333333333 ,
+    'label': ' NGC 2451 ',
+    'colour': ' rgb(0,0,220) '});"
+"364","planetarium.addPointer({
+    'ra':  116.75 ,
+    'dec':  -26.8166666666667 ,
+    'label': ' NGC 2453 ',
+    'colour': ' rgb(0,0,220) '});"
+"365","planetarium.addPointer({
+    'ra':  117 ,
+    'dec':  -20.7166666666667 ,
+    'label': ' NGC 2455 ',
+    'colour': ' rgb(0,0,220) '});"
+"366","planetarium.addPointer({
+    'ra':  118 ,
+    'dec':  9.55 ,
+    'label': ' NGC 2459 ',
+    'colour': ' rgb(0,0,220) '});"
+"367","planetarium.addPointer({
+    'ra':  118 ,
+    'dec':  -25.5666666666667 ,
+    'label': ' NGC 2467 ',
+    'colour': ' rgb(0,0,220) '});"
+"368","planetarium.addPointer({
+    'ra':  118 ,
+    'dec':  -37.4833333333333 ,
+    'label': ' NGC 2477 ',
+    'colour': ' rgb(0,0,220) '});"
+"369","planetarium.addPointer({
+    'ra':  118.75 ,
+    'dec':  -16.3 ,
+    'label': ' NGC 2479 ',
+    'colour': ' rgb(0,0,220) '});"
+"370","planetarium.addPointer({
+    'ra':  118.75 ,
+    'dec':  -23.75 ,
+    'label': ' NGC 2482 ',
+    'colour': ' rgb(0,0,220) '});"
+"371","planetarium.addPointer({
+    'ra':  118.75 ,
+    'dec':  -26.1166666666667 ,
+    'label': ' NGC 2483 ',
+    'colour': ' rgb(0,0,220) '});"
+"372","planetarium.addPointer({
+    'ra':  119 ,
+    'dec':  -29.95 ,
+    'label': ' NGC 2489 ',
+    'colour': ' rgb(0,0,220) '});"
+"373","planetarium.addPointer({
+    'ra':  120 ,
+    'dec':  -9.23333333333333 ,
+    'label': ' NGC 2506 ',
+    'colour': ' rgb(0,0,220) '});"
+"374","planetarium.addPointer({
+    'ra':  120 ,
+    'dec':  -18.95 ,
+    'label': ' NGC 2509 ',
+    'colour': ' rgb(0,0,220) '});"
+"375","planetarium.addPointer({
+    'ra':  119.5 ,
+    'dec':  -59.25 ,
+    'label': ' NGC 2516 ',
+    'colour': ' rgb(0,0,220) '});"
+"376","planetarium.addPointer({
+    'ra':  121 ,
+    'dec':  -27.8666666666667 ,
+    'label': ' NGC 2520 ',
+    'colour': ' rgb(0,0,220) '});"
+"377","planetarium.addPointer({
+    'ra':  121.75 ,
+    'dec':  -28.1166666666667 ,
+    'label': ' NGC 2533 ',
+    'colour': ' rgb(0,0,220) '});"
+"378","planetarium.addPointer({
+    'ra':  122.5 ,
+    'dec':  -11.1833333333333 ,
+    'label': ' NGC 2539 ',
+    'colour': ' rgb(0,0,220) '});"
+"379","planetarium.addPointer({
+    'ra':  123 ,
+    'dec':  -36.4166666666667 ,
+    'label': ' NGC 2546 ',
+    'colour': ' rgb(0,0,220) '});"
+"380","planetarium.addPointer({
+    'ra':  122.5 ,
+    'dec':  -48.8 ,
+    'label': ' NGC 2547 ',
+    'colour': ' rgb(0,0,220) '});"
+"381","planetarium.addPointer({
+    'ra':  123.25 ,
+    'dec':  -4.25 ,
+    'label': ' NGC 2548 ',
+    'colour': ' rgb(0,0,220) '});"
+"382","planetarium.addPointer({
+    'ra':  124.5 ,
+    'dec':  -29.3666666666667 ,
+    'label': ' NGC 2567 ',
+    'colour': ' rgb(0,0,220) '});"
+"383","planetarium.addPointer({
+    'ra':  124.5 ,
+    'dec':  -36.9 ,
+    'label': ' NGC 2568 ',
+    'colour': ' rgb(0,0,220) '});"
+"384","planetarium.addPointer({
+    'ra':  124.5 ,
+    'dec':  -28.2666666666667 ,
+    'label': ' NGC 2571 ',
+    'colour': ' rgb(0,0,220) '});"
+"385","planetarium.addPointer({
+    'ra':  125 ,
+    'dec':  -35.7833333333333 ,
+    'label': ' NGC 2579 ',
+    'colour': ' rgb(0,0,220) '});"
+"386","planetarium.addPointer({
+    'ra':  125.25 ,
+    'dec':  -29.7166666666667 ,
+    'label': ' NGC 2580 ',
+    'colour': ' rgb(0,0,220) '});"
+"387","planetarium.addPointer({
+    'ra':  125.75 ,
+    'dec':  -28.5 ,
+    'label': ' NGC 2587 ',
+    'colour': ' rgb(0,0,220) '});"
+"388","planetarium.addPointer({
+    'ra':  125.75 ,
+    'dec':  -31.0333333333333 ,
+    'label': ' NGC 2588 ',
+    'colour': ' rgb(0,0,220) '});"
+"389","planetarium.addPointer({
+    'ra':  127.25 ,
+    'dec':  -60.9 ,
+    'label': ' NGC 2609 ',
+    'colour': ' rgb(0,0,220) '});"
+"390","planetarium.addPointer({
+    'ra':  129.25 ,
+    'dec':  -28.05 ,
+    'label': ' NGC 2627 ',
+    'colour': ' rgb(0,0,220) '});"
+"391","planetarium.addPointer({
+    'ra':  130 ,
+    'dec':  19.6666666666667 ,
+    'label': ' NGC 2632 ',
+    'colour': ' rgb(0,0,220) '});"
+"392","planetarium.addPointer({
+    'ra':  129.5 ,
+    'dec':  -33.2333333333333 ,
+    'label': ' NGC 2635 ',
+    'colour': ' rgb(0,0,220) '});"
+"393","planetarium.addPointer({
+    'ra':  129.75 ,
+    'dec':  -45.7833333333333 ,
+    'label': ' NGC 2645 ',
+    'colour': ' rgb(0,0,220) '});"
+"394","planetarium.addPointer({
+    'ra':  130.75 ,
+    'dec':  -31.35 ,
+    'label': ' NGC 2658 ',
+    'colour': ' rgb(0,0,220) '});"
+"395","planetarium.addPointer({
+    'ra':  130.5 ,
+    'dec':  -45 ,
+    'label': ' NGC 2659 ',
+    'colour': ' rgb(0,0,220) '});"
+"396","planetarium.addPointer({
+    'ra':  130.5 ,
+    'dec':  -46.8 ,
+    'label': ' NGC 2660 ',
+    'colour': ' rgb(0,0,220) '});"
+"397","planetarium.addPointer({
+    'ra':  131.75 ,
+    'dec':  12.6 ,
+    'label': ' NGC 2664 ',
+    'colour': ' rgb(0,0,220) '});"
+"398","planetarium.addPointer({
+    'ra':  132.25 ,
+    'dec':  44.7 ,
+    'label': ' NGC 2666 ',
+    'colour': ' rgb(0,0,220) '});"
+"399","planetarium.addPointer({
+    'ra':  131.5 ,
+    'dec':  -51.0666666666667 ,
+    'label': ' NGC 2669 ',
+    'colour': ' rgb(0,0,220) '});"
+"400","planetarium.addPointer({
+    'ra':  131.25 ,
+    'dec':  -47.2166666666667 ,
+    'label': ' NGC 2670 ',
+    'colour': ' rgb(0,0,220) '});"
+"401","planetarium.addPointer({
+    'ra':  131.5 ,
+    'dec':  -40.1333333333333 ,
+    'label': ' NGC 2671 ',
+    'colour': ' rgb(0,0,220) '});"
+"402","planetarium.addPointer({
+    'ra':  132.5 ,
+    'dec':  11.3333333333333 ,
+    'label': ' NGC 2678 ',
+    'colour': ' rgb(0,0,220) '});"
+"403","planetarium.addPointer({
+    'ra':  132.75 ,
+    'dec':  11.8 ,
+    'label': ' NGC 2682 ',
+    'colour': ' rgb(0,0,220) '});"
+"404","planetarium.addPointer({
+    'ra':  139 ,
+    'dec':  -35.3833333333333 ,
+    'label': ' NGC 2818 ',
+    'colour': ' rgb(0,0,220) '});"
+"405","planetarium.addPointer({
+    'ra':  139.75 ,
+    'dec':  -39.4833333333333 ,
+    'label': ' NGC 2849 ',
+    'colour': ' rgb(0,0,220) '});"
+"406","planetarium.addPointer({
+    'ra':  140.5 ,
+    'dec':  -50.9 ,
+    'label': ' NGC 2866 ',
+    'colour': ' rgb(0,0,220) '});"
+"407","planetarium.addPointer({
+    'ra':  142.5 ,
+    'dec':  -51.1 ,
+    'label': ' NGC 2910 ',
+    'colour': ' rgb(0,0,220) '});"
+"408","planetarium.addPointer({
+    'ra':  143.25 ,
+    'dec':  -52.6166666666667 ,
+    'label': ' NGC 2925 ',
+    'colour': ' rgb(0,0,220) '});"
+"409","planetarium.addPointer({
+    'ra':  145 ,
+    'dec':  -49.6833333333333 ,
+    'label': ' NGC 2972 ',
+    'colour': ' rgb(0,0,220) '});"
+"410","planetarium.addPointer({
+    'ra':  145.5 ,
+    'dec':  -43.9833333333333 ,
+    'label': ' NGC 2982 ',
+    'colour': ' rgb(0,0,220) '});"
+"411","planetarium.addPointer({
+    'ra':  147 ,
+    'dec':  -55.5833333333333 ,
+    'label': ' NGC 3033 ',
+    'colour': ' rgb(0,0,220) '});"
+"412","planetarium.addPointer({
+    'ra':  147.25 ,
+    'dec':  -61.3333333333333 ,
+    'label': ' NGC 3036 ',
+    'colour': ' rgb(0,0,220) '});"
+"413","planetarium.addPointer({
+    'ra':  150 ,
+    'dec':  -53.2166666666667 ,
+    'label': ' NGC 3105 ',
+    'colour': ' rgb(0,0,220) '});"
+"414","planetarium.addPointer({
+    'ra':  150.5 ,
+    'dec':  -59.8833333333333 ,
+    'label': ' NGC 3114 ',
+    'colour': ' rgb(0,0,220) '});"
+"415","planetarium.addPointer({
+    'ra':  155.25 ,
+    'dec':  -50.2833333333333 ,
+    'label': ' NGC 3228 ',
+    'colour': ' rgb(0,0,220) '});"
+"416","planetarium.addPointer({
+    'ra':  156.5 ,
+    'dec':  66.8 ,
+    'label': ' NGC 3231 ',
+    'colour': ' rgb(0,0,220) '});"
+"417","planetarium.addPointer({
+    'ra':  156.5 ,
+    'dec':  -59.3333333333333 ,
+    'label': ' NGC 3255 ',
+    'colour': ' rgb(0,0,220) '});"
+"418","planetarium.addPointer({
+    'ra':  158.75 ,
+    'dec':  -57.7833333333333 ,
+    'label': ' NGC 3293 ',
+    'colour': ' rgb(0,0,220) '});"
+"419","planetarium.addPointer({
+    'ra':  159.25 ,
+    'dec':  -57.3833333333333 ,
+    'label': ' NGC 3324 ',
+    'colour': ' rgb(0,0,220) '});"
+"420","planetarium.addPointer({
+    'ra':  159.5 ,
+    'dec':  -53.8833333333333 ,
+    'label': ' NGC 3330 ',
+    'colour': ' rgb(0,0,220) '});"
+"421","planetarium.addPointer({
+    'ra':  163 ,
+    'dec':  -44.8666666666667 ,
+    'label': ' NGC 3446 ',
+    'colour': ' rgb(0,0,220) '});"
+"422","planetarium.addPointer({
+    'ra':  164.75 ,
+    'dec':  -59.6666666666667 ,
+    'label': ' NGC 3496 ',
+    'colour': ' rgb(0,0,220) '});"
+"423","planetarium.addPointer({
+    'ra':  166 ,
+    'dec':  -60.6333333333333 ,
+    'label': ' NGC 3519 ',
+    'colour': ' rgb(0,0,220) '});"
+"424","planetarium.addPointer({
+    'ra':  166.25 ,
+    'dec':  -57.2333333333333 ,
+    'label': ' NGC 3532 ',
+    'colour': ' rgb(0,0,220) '});"
+"425","planetarium.addPointer({
+    'ra':  167.5 ,
+    'dec':  -59.7666666666667 ,
+    'label': ' NGC 3572 ',
+    'colour': ' rgb(0,0,220) '});"
+"426","planetarium.addPointer({
+    'ra':  168 ,
+    'dec':  -59.2166666666667 ,
+    'label': ' NGC 3590 ',
+    'colour': ' rgb(0,0,220) '});"
+"427","planetarium.addPointer({
+    'ra':  168.75 ,
+    'dec':  -60.75 ,
+    'label': ' NGC 3603 ',
+    'colour': ' rgb(0,0,220) '});"
+"428","planetarium.addPointer({
+    'ra':  171.25 ,
+    'dec':  -42.75 ,
+    'label': ' NGC 3680 ',
+    'colour': ' rgb(0,0,220) '});"
+"429","planetarium.addPointer({
+    'ra':  174 ,
+    'dec':  -60.4 ,
+    'label': ' NGC 3766 ',
+    'colour': ' rgb(0,0,220) '});"
+"430","planetarium.addPointer({
+    'ra':  177.5 ,
+    'dec':  -47.7666666666667 ,
+    'label': ' NGC 3909 ',
+    'colour': ' rgb(0,0,220) '});"
+"431","planetarium.addPointer({
+    'ra':  177.5 ,
+    'dec':  -54.3333333333333 ,
+    'label': ' NGC 3960 ',
+    'colour': ' rgb(0,0,220) '});"
+"432","planetarium.addPointer({
+    'ra':  180.5 ,
+    'dec':  -62.7833333333333 ,
+    'label': ' NGC 4052 ',
+    'colour': ' rgb(0,0,220) '});"
+"433","planetarium.addPointer({
+    'ra':  181.5 ,
+    'dec':  -60.75 ,
+    'label': ' NGC 4103 ',
+    'colour': ' rgb(0,0,220) '});"
+"434","planetarium.addPointer({
+    'ra':  183.25 ,
+    'dec':  -61.2833333333333 ,
+    'label': ' NGC 4184 ',
+    'colour': ' rgb(0,0,220) '});"
+"435","planetarium.addPointer({
+    'ra':  184.25 ,
+    'dec':  -54.7166666666667 ,
+    'label': ' NGC 4230 ',
+    'colour': ' rgb(0,0,220) '});"
+"436","planetarium.addPointer({
+    'ra':  186 ,
+    'dec':  -57.8833333333333 ,
+    'label': ' NGC 4337 ',
+    'colour': ' rgb(0,0,220) '});"
+"437","planetarium.addPointer({
+    'ra':  186 ,
+    'dec':  -60.1333333333333 ,
+    'label': ' NGC 4349 ',
+    'colour': ' rgb(0,0,220) '});"
+"438","planetarium.addPointer({
+    'ra':  187 ,
+    'dec':  -59.9 ,
+    'label': ' NGC 4439 ',
+    'colour': ' rgb(0,0,220) '});"
+"439","planetarium.addPointer({
+    'ra':  187.25 ,
+    'dec':  -63.2166666666667 ,
+    'label': ' NGC 4463 ',
+    'colour': ' rgb(0,0,220) '});"
+"440","planetarium.addPointer({
+    'ra':  190.5 ,
+    'dec':  -61.0166666666667 ,
+    'label': ' NGC 4609 ',
+    'colour': ' rgb(0,0,220) '});"
+"441","planetarium.addPointer({
+    'ra':  193.25 ,
+    'dec':  -59.65 ,
+    'label': ' NGC 4755 ',
+    'colour': ' rgb(0,0,220) '});"
+"442","planetarium.addPointer({
+    'ra':  194.25 ,
+    'dec':  -63.05 ,
+    'label': ' NGC 4815 ',
+    'colour': ' rgb(0,0,220) '});"
+"443","planetarium.addPointer({
+    'ra':  195 ,
+    'dec':  -58.4 ,
+    'label': ' NGC 4852 ',
+    'colour': ' rgb(0,0,220) '});"
+"444","planetarium.addPointer({
+    'ra':  199 ,
+    'dec':  -59.9666666666667 ,
+    'label': ' NGC 5043 ',
+    'colour': ' rgb(0,0,220) '});"
+"445","planetarium.addPointer({
+    'ra':  201.25 ,
+    'dec':  -62.55 ,
+    'label': ' NGC 5120 ',
+    'colour': ' rgb(0,0,220) '});"
+"446","planetarium.addPointer({
+    'ra':  201.75 ,
+    'dec':  -58.9666666666667 ,
+    'label': ' NGC 5138 ',
+    'colour': ' rgb(0,0,220) '});"
+"447","planetarium.addPointer({
+    'ra':  202.75 ,
+    'dec':  -59.0666666666667 ,
+    'label': ' NGC 5168 ',
+    'colour': ' rgb(0,0,220) '});"
+"448","planetarium.addPointer({
+    'ra':  206 ,
+    'dec':  -61.1 ,
+    'label': ' NGC 5269 ',
+    'colour': ' rgb(0,0,220) '});"
+"449","planetarium.addPointer({
+    'ra':  206.5 ,
+    'dec':  -61.1 ,
+    'label': ' NGC 5281 ',
+    'colour': ' rgb(0,0,220) '});"
+"450","planetarium.addPointer({
+    'ra':  207 ,
+    'dec':  -63.3166666666667 ,
+    'label': ' NGC 5288 ',
+    'colour': ' rgb(0,0,220) '});"
+"451","planetarium.addPointer({
+    'ra':  207.5 ,
+    'dec':  -58.0666666666667 ,
+    'label': ' NGC 5299 ',
+    'colour': ' rgb(0,0,220) '});"
+"452","planetarium.addPointer({
+    'ra':  208.25 ,
+    'dec':  -60.1333333333333 ,
+    'label': ' NGC 5316 ',
+    'colour': ' rgb(0,0,220) '});"
+"453","planetarium.addPointer({
+    'ra':  210 ,
+    'dec':  -69.6166666666667 ,
+    'label': ' NGC 5359 ',
+    'colour': ' rgb(0,0,220) '});"
+"454","planetarium.addPointer({
+    'ra':  210 ,
+    'dec':  -58.4166666666667 ,
+    'label': ' NGC 5381 ',
+    'colour': ' rgb(0,0,220) '});"
+"455","planetarium.addPointer({
+    'ra':  208 ,
+    'dec':  76.15 ,
+    'label': ' NGC 5385 ',
+    'colour': ' rgb(0,0,220) '});"
+"456","planetarium.addPointer({
+    'ra':  211.75 ,
+    'dec':  -47.6666666666667 ,
+    'label': ' NGC 5460 ',
+    'colour': ' rgb(0,0,220) '});"
+"457","planetarium.addPointer({
+    'ra':  216.25 ,
+    'dec':  -53.2166666666667 ,
+    'label': ' NGC 5593 ',
+    'colour': ' rgb(0,0,220) '});"
+"458","planetarium.addPointer({
+    'ra':  216.75 ,
+    'dec':  -58.3833333333333 ,
+    'label': ' NGC 5606 ',
+    'colour': ' rgb(0,0,220) '});"
+"459","planetarium.addPointer({
+    'ra':  217.25 ,
+    'dec':  -59.3 ,
+    'label': ' NGC 5617 ',
+    'colour': ' rgb(0,0,220) '});"
+"460","planetarium.addPointer({
+    'ra':  218.75 ,
+    'dec':  -55.3833333333333 ,
+    'label': ' NGC 5662 ',
+    'colour': ' rgb(0,0,220) '});"
+"461","planetarium.addPointer({
+    'ra':  220.75 ,
+    'dec':  -56.4333333333333 ,
+    'label': ' NGC 5715 ',
+    'colour': ' rgb(0,0,220) '});"
+"462","planetarium.addPointer({
+    'ra':  222 ,
+    'dec':  -53.5166666666667 ,
+    'label': ' NGC 5749 ',
+    'colour': ' rgb(0,0,220) '});"
+"463","planetarium.addPointer({
+    'ra':  223.25 ,
+    'dec':  -51.3333333333333 ,
+    'label': ' NGC 5764 ',
+    'colour': ' rgb(0,0,220) '});"
+"464","planetarium.addPointer({
+    'ra':  225.25 ,
+    'dec':  -50.0833333333333 ,
+    'label': ' NGC 5800 ',
+    'colour': ' rgb(0,0,220) '});"
+"465","planetarium.addPointer({
+    'ra':  226 ,
+    'dec':  -53.6166666666667 ,
+    'label': ' NGC 5822 ',
+    'colour': ' rgb(0,0,220) '});"
+"466","planetarium.addPointer({
+    'ra':  226.25 ,
+    'dec':  -54.4 ,
+    'label': ' NGC 5823 ',
+    'colour': ' rgb(0,0,220) '});"
+"467","planetarium.addPointer({
+    'ra':  231.75 ,
+    'dec':  -53.4833333333333 ,
+    'label': ' NGC 5925 ',
+    'colour': ' rgb(0,0,220) '});"
+"468","planetarium.addPointer({
+    'ra':  237.25 ,
+    'dec':  -27.4333333333333 ,
+    'label': ' NGC 5998 ',
+    'colour': ' rgb(0,0,220) '});"
+"469","planetarium.addPointer({
+    'ra':  238 ,
+    'dec':  -55.5333333333333 ,
+    'label': ' NGC 5999 ',
+    'colour': ' rgb(0,0,220) '});"
+"470","planetarium.addPointer({
+    'ra':  238.75 ,
+    'dec':  -56.5666666666667 ,
+    'label': ' NGC 6005 ',
+    'colour': ' rgb(0,0,220) '});"
+"471","planetarium.addPointer({
+    'ra':  240.75 ,
+    'dec':  -59.5833333333333 ,
+    'label': ' NGC 6025 ',
+    'colour': ' rgb(0,0,220) '});"
+"472","planetarium.addPointer({
+    'ra':  241.75 ,
+    'dec':  -54 ,
+    'label': ' NGC 6031 ',
+    'colour': ' rgb(0,0,220) '});"
+"473","planetarium.addPointer({
+    'ra':  243.25 ,
+    'dec':  -53.7833333333333 ,
+    'label': ' NGC 6067 ',
+    'colour': ' rgb(0,0,220) '});"
+"474","planetarium.addPointer({
+    'ra':  244.5 ,
+    'dec':  -56.0666666666667 ,
+    'label': ' NGC 6087 ',
+    'colour': ' rgb(0,0,220) '});"
+"475","planetarium.addPointer({
+    'ra':  246 ,
+    'dec':  -50.0666666666667 ,
+    'label': ' NGC 6115 ',
+    'colour': ' rgb(0,0,220) '});"
+"476","planetarium.addPointer({
+    'ra':  246.25 ,
+    'dec':  -39.35 ,
+    'label': ' NGC 6124 ',
+    'colour': ' rgb(0,0,220) '});"
+"477","planetarium.addPointer({
+    'ra':  246.75 ,
+    'dec':  -48.85 ,
+    'label': ' NGC 6134 ',
+    'colour': ' rgb(0,0,220) '});"
+"478","planetarium.addPointer({
+    'ra':  248 ,
+    'dec':  -51.3666666666667 ,
+    'label': ' NGC 6152 ',
+    'colour': ' rgb(0,0,220) '});"
+"479","planetarium.addPointer({
+    'ra':  248.5 ,
+    'dec':  -48.2333333333333 ,
+    'label': ' NGC 6167 ',
+    'colour': ' rgb(0,0,220) '});"
+"480","planetarium.addPointer({
+    'ra':  248.5 ,
+    'dec':  -43.9666666666667 ,
+    'label': ' NGC 6169 ',
+    'colour': ' rgb(0,0,220) '});"
+"481","planetarium.addPointer({
+    'ra':  248.75 ,
+    'dec':  -44.3666666666667 ,
+    'label': ' NGC 6178 ',
+    'colour': ' rgb(0,0,220) '});"
+"482","planetarium.addPointer({
+    'ra':  250 ,
+    'dec':  -42.6333333333333 ,
+    'label': ' NGC 6192 ',
+    'colour': ' rgb(0,0,220) '});"
+"483","planetarium.addPointer({
+    'ra':  250.25 ,
+    'dec':  -47.25 ,
+    'label': ' NGC 6193 ',
+    'colour': ' rgb(0,0,220) '});"
+"484","planetarium.addPointer({
+    'ra':  251 ,
+    'dec':  -46.55 ,
+    'label': ' NGC 6200 ',
+    'colour': ' rgb(0,0,220) '});"
+"485","planetarium.addPointer({
+    'ra':  251.5 ,
+    'dec':  -46.9833333333333 ,
+    'label': ' NGC 6204 ',
+    'colour': ' rgb(0,0,220) '});"
+"486","planetarium.addPointer({
+    'ra':  252.25 ,
+    'dec':  -52.2833333333333 ,
+    'label': ' NGC 6208 ',
+    'colour': ' rgb(0,0,220) '});"
+"487","planetarium.addPointer({
+    'ra':  252.25 ,
+    'dec':  -43.2833333333333 ,
+    'label': ' NGC 6216 ',
+    'colour': ' rgb(0,0,220) '});"
+"488","planetarium.addPointer({
+    'ra':  253.5 ,
+    'dec':  -40.1833333333333 ,
+    'label': ' NGC 6231 ',
+    'colour': ' rgb(0,0,220) '});"
+"489","planetarium.addPointer({
+    'ra':  253.75 ,
+    'dec':  -38.55 ,
+    'label': ' NGC 6242 ',
+    'colour': ' rgb(0,0,220) '});"
+"490","planetarium.addPointer({
+    'ra':  254.25 ,
+    'dec':  -43.2 ,
+    'label': ' NGC 6249 ',
+    'colour': ' rgb(0,0,220) '});"
+"491","planetarium.addPointer({
+    'ra':  254.25 ,
+    'dec':  -44.0666666666667 ,
+    'label': ' NGC 6250 ',
+    'colour': ' rgb(0,0,220) '});"
+"492","planetarium.addPointer({
+    'ra':  254.75 ,
+    'dec':  -51.3 ,
+    'label': ' NGC 6253 ',
+    'colour': ' rgb(0,0,220) '});"
+"493","planetarium.addPointer({
+    'ra':  255 ,
+    'dec':  -43.35 ,
+    'label': ' NGC 6259 ',
+    'colour': ' rgb(0,0,220) '});"
+"494","planetarium.addPointer({
+    'ra':  255.5 ,
+    'dec':  -38.2833333333333 ,
+    'label': ' NGC 6268 ',
+    'colour': ' rgb(0,0,220) '});"
+"495","planetarium.addPointer({
+    'ra':  256 ,
+    'dec':  -36.0166666666667 ,
+    'label': ' NGC 6281 ',
+    'colour': ' rgb(0,0,220) '});"
+"496","planetarium.addPointer({
+    'ra':  259 ,
+    'dec':  -38.5833333333333 ,
+    'label': ' NGC 6318 ',
+    'colour': ' rgb(0,0,220) '});"
+"497","planetarium.addPointer({
+    'ra':  259.5 ,
+    'dec':  -41.0666666666667 ,
+    'label': ' NGC 6322 ',
+    'colour': ' rgb(0,0,220) '});"
+"498","planetarium.addPointer({
+    'ra':  263.5 ,
+    'dec':  -31.4333333333333 ,
+    'label': ' NGC 6374 ',
+    'colour': ' rgb(0,0,220) '});"
+"499","planetarium.addPointer({
+    'ra':  264.25 ,
+    'dec':  -34.9833333333333 ,
+    'label': ' NGC 6396 ',
+    'colour': ' rgb(0,0,220) '});"
+"500","planetarium.addPointer({
+    'ra':  265 ,
+    'dec':  -35.0666666666667 ,
+    'label': ' NGC 6400 ',
+    'colour': ' rgb(0,0,220) '});"
+"501","planetarium.addPointer({
+    'ra':  264.75 ,
+    'dec':  -32.7666666666667 ,
+    'label': ' NGC 6404 ',
+    'colour': ' rgb(0,0,220) '});"
+"502","planetarium.addPointer({
+    'ra':  265 ,
+    'dec':  -31.75 ,
+    'label': ' NGC 6405 ',
+    'colour': ' rgb(0,0,220) '});"
+"503","planetarium.addPointer({
+    'ra':  266 ,
+    'dec':  -31.65 ,
+    'label': ' NGC 6416 ',
+    'colour': ' rgb(0,0,220) '});"
+"504","planetarium.addPointer({
+    'ra':  266.75 ,
+    'dec':  -30.4833333333333 ,
+    'label': ' NGC 6425 ',
+    'colour': ' rgb(0,0,220) '});"
+"505","planetarium.addPointer({
+    'ra':  267.25 ,
+    'dec':  -33.1833333333333 ,
+    'label': ' NGC 6444 ',
+    'colour': ' rgb(0,0,220) '});"
+"506","planetarium.addPointer({
+    'ra':  267.5 ,
+    'dec':  -29.8 ,
+    'label': ' NGC 6451 ',
+    'colour': ' rgb(0,0,220) '});"
+"507","planetarium.addPointer({
+    'ra':  268.25 ,
+    'dec':  -21.7333333333333 ,
+    'label': ' NGC 6469 ',
+    'colour': ' rgb(0,0,220) '});"
+"508","planetarium.addPointer({
+    'ra':  268.25 ,
+    'dec':  -33.2166666666667 ,
+    'label': ' NGC 6475 ',
+    'colour': ' rgb(0,0,220) '});"
+"509","planetarium.addPointer({
+    'ra':  268 ,
+    'dec':  4.16666666666667 ,
+    'label': ' NGC 6481 ',
+    'colour': ' rgb(0,0,220) '});"
+"510","planetarium.addPointer({
+    'ra':  269.25 ,
+    'dec':  -17.0166666666667 ,
+    'label': ' NGC 6494 ',
+    'colour': ' rgb(0,0,220) '});"
+"511","planetarium.addPointer({
+    'ra':  269.75 ,
+    'dec':  -23.3166666666667 ,
+    'label': ' NGC 6506 ',
+    'colour': ' rgb(0,0,220) '});"
+"512","planetarium.addPointer({
+    'ra':  269.75 ,
+    'dec':  -16.55 ,
+    'label': ' NGC 6507 ',
+    'colour': ' rgb(0,0,220) '});"
+"513","planetarium.addPointer({
+    'ra':  270.5 ,
+    'dec':  -21.0333333333333 ,
+    'label': ' NGC 6514 ',
+    'colour': ' rgb(0,0,220) '});"
+"514","planetarium.addPointer({
+    'ra':  270.75 ,
+    'dec':  -26.1166666666667 ,
+    'label': ' NGC 6520 ',
+    'colour': ' rgb(0,0,220) '});"
+"515","planetarium.addPointer({
+    'ra':  270.5 ,
+    'dec':  11.0333333333333 ,
+    'label': ' NGC 6525 ',
+    'colour': ' rgb(0,0,220) '});"
+"516","planetarium.addPointer({
+    'ra':  271 ,
+    'dec':  -23.65 ,
+    'label': ' NGC 6530 ',
+    'colour': ' rgb(0,0,220) '});"
+"517","planetarium.addPointer({
+    'ra':  271 ,
+    'dec':  -21.5166666666667 ,
+    'label': ' NGC 6531 ',
+    'colour': ' rgb(0,0,220) '});"
+"518","planetarium.addPointer({
+    'ra':  271.75 ,
+    'dec':  -22.7166666666667 ,
+    'label': ' NGC 6546 ',
+    'colour': ' rgb(0,0,220) '});"
+"519","planetarium.addPointer({
+    'ra':  272.25 ,
+    'dec':  -17.6333333333333 ,
+    'label': ' NGC 6554 ',
+    'colour': ' rgb(0,0,220) '});"
+"520","planetarium.addPointer({
+    'ra':  272.5 ,
+    'dec':  -15.2833333333333 ,
+    'label': ' NGC 6561 ',
+    'colour': ' rgb(0,0,220) '});"
+"521","planetarium.addPointer({
+    'ra':  273 ,
+    'dec':  -20.3833333333333 ,
+    'label': ' NGC 6568 ',
+    'colour': ' rgb(0,0,220) '});"
+"522","planetarium.addPointer({
+    'ra':  273.75 ,
+    'dec':  -21.8666666666667 ,
+    'label': ' NGC 6583 ',
+    'colour': ' rgb(0,0,220) '});"
+"523","planetarium.addPointer({
+    'ra':  274.25 ,
+    'dec':  -15.35 ,
+    'label': ' NGC 6596 ',
+    'colour': ' rgb(0,0,220) '});"
+"524","planetarium.addPointer({
+    'ra':  274.5 ,
+    'dec':  -17.6 ,
+    'label': ' NGC 6603 ',
+    'colour': ' rgb(0,0,220) '});"
+"525","planetarium.addPointer({
+    'ra':  274.5 ,
+    'dec':  -11.7666666666667 ,
+    'label': ' NGC 6604 ',
+    'colour': ' rgb(0,0,220) '});"
+"526","planetarium.addPointer({
+    'ra':  274 ,
+    'dec':  -15 ,
+    'label': ' NGC 6605 ',
+    'colour': ' rgb(0,0,220) '});"
+"527","planetarium.addPointer({
+    'ra':  274.5 ,
+    'dec':  -12.2 ,
+    'label': ' NGC 6611 ',
+    'colour': ' rgb(0,0,220) '});"
+"528","planetarium.addPointer({
+    'ra':  274.75 ,
+    'dec':  -16.9 ,
+    'label': ' NGC 6613 ',
+    'colour': ' rgb(0,0,220) '});"
+"529","planetarium.addPointer({
+    'ra':  275 ,
+    'dec':  -15.8333333333333 ,
+    'label': ' NGC 6618 ',
+    'colour': ' rgb(0,0,220) '});"
+"530","planetarium.addPointer({
+    'ra':  275.5 ,
+    'dec':  -10.05 ,
+    'label': ' NGC 6625 ',
+    'colour': ' rgb(0,0,220) '});"
+"531","planetarium.addPointer({
+    'ra':  276.75 ,
+    'dec':  -11.9833333333333 ,
+    'label': ' NGC 6631 ',
+    'colour': ' rgb(0,0,220) '});"
+"532","planetarium.addPointer({
+    'ra':  276.75 ,
+    'dec':  6.5 ,
+    'label': ' NGC 6633 ',
+    'colour': ' rgb(0,0,220) '});"
+"533","planetarium.addPointer({
+    'ra':  277.5 ,
+    'dec':  -12.85 ,
+    'label': ' NGC 6639 ',
+    'colour': ' rgb(0,0,220) '});"
+"534","planetarium.addPointer({
+    'ra':  278 ,
+    'dec':  -15.1166666666667 ,
+    'label': ' NGC 6645 ',
+    'colour': ' rgb(0,0,220) '});"
+"535","planetarium.addPointer({
+    'ra':  278 ,
+    'dec':  -16.7833333333333 ,
+    'label': ' NGC 6647 ',
+    'colour': ' rgb(0,0,220) '});"
+"536","planetarium.addPointer({
+    'ra':  278.25 ,
+    'dec':  -9.6 ,
+    'label': ' NGC 6649 ',
+    'colour': ' rgb(0,0,220) '});"
+"537","planetarium.addPointer({
+    'ra':  278.25 ,
+    'dec':  23.5833333333333 ,
+    'label': ' NGC 6659 ',
+    'colour': ' rgb(0,0,220) '});"
+"538","planetarium.addPointer({
+    'ra':  279 ,
+    'dec':  -7.78333333333333 ,
+    'label': ' NGC 6664 ',
+    'colour': ' rgb(0,0,220) '});"
+"539","planetarium.addPointer({
+    'ra':  279.75 ,
+    'dec':  -3.2 ,
+    'label': ' NGC 6682 ',
+    'colour': ' rgb(0,0,220) '});"
+"540","planetarium.addPointer({
+    'ra':  280.5 ,
+    'dec':  -5.8 ,
+    'label': ' NGC 6683 ',
+    'colour': ' rgb(0,0,220) '});"
+"541","planetarium.addPointer({
+    'ra':  281.25 ,
+    'dec':  -8.61666666666667 ,
+    'label': ' NGC 6694 ',
+    'colour': ' rgb(0,0,220) '});"
+"542","planetarium.addPointer({
+    'ra':  282 ,
+    'dec':  -24.5333333333333 ,
+    'label': ' NGC 6698 ',
+    'colour': ' rgb(0,0,220) '});"
+"543","planetarium.addPointer({
+    'ra':  282.5 ,
+    'dec':  -4.8 ,
+    'label': ' NGC 6704 ',
+    'colour': ' rgb(0,0,220) '});"
+"544","planetarium.addPointer({
+    'ra':  282.75 ,
+    'dec':  -5.73333333333333 ,
+    'label': ' NGC 6705 ',
+    'colour': ' rgb(0,0,220) '});"
+"545","planetarium.addPointer({
+    'ra':  282.75 ,
+    'dec':  10.3166666666667 ,
+    'label': ' NGC 6709 ',
+    'colour': ' rgb(0,0,220) '});"
+"546","planetarium.addPointer({
+    'ra':  283.5 ,
+    'dec':  -18.1 ,
+    'label': ' NGC 6716 ',
+    'colour': ' rgb(0,0,220) '});"
+"547","planetarium.addPointer({
+    'ra':  284 ,
+    'dec':  10.4166666666667 ,
+    'label': ' NGC 6724 ',
+    'colour': ' rgb(0,0,220) '});"
+"548","planetarium.addPointer({
+    'ra':  284.5 ,
+    'dec':  -7.05 ,
+    'label': ' NGC 6728 ',
+    'colour': ' rgb(0,0,220) '});"
+"549","planetarium.addPointer({
+    'ra':  285 ,
+    'dec':  0.466666666666667 ,
+    'label': ' NGC 6735 ',
+    'colour': ' rgb(0,0,220) '});"
+"550","planetarium.addPointer({
+    'ra':  285.5 ,
+    'dec':  -17.4666666666667 ,
+    'label': ' NGC 6737 ',
+    'colour': ' rgb(0,0,220) '});"
+"551","planetarium.addPointer({
+    'ra':  285.25 ,
+    'dec':  11.6 ,
+    'label': ' NGC 6738 ',
+    'colour': ' rgb(0,0,220) '});"
+"552","planetarium.addPointer({
+    'ra':  285.25 ,
+    'dec':  29.2666666666667 ,
+    'label': ' NGC 6743 ',
+    'colour': ' rgb(0,0,220) '});"
+"553","planetarium.addPointer({
+    'ra':  286.75 ,
+    'dec':  4.25 ,
+    'label': ' NGC 6755 ',
+    'colour': ' rgb(0,0,220) '});"
+"554","planetarium.addPointer({
+    'ra':  287 ,
+    'dec':  4.7 ,
+    'label': ' NGC 6756 ',
+    'colour': ' rgb(0,0,220) '});"
+"555","planetarium.addPointer({
+    'ra':  288.75 ,
+    'dec':  4.85 ,
+    'label': ' NGC 6773 ',
+    'colour': ' rgb(0,0,220) '});"
+"556","planetarium.addPointer({
+    'ra':  289 ,
+    'dec':  -15.75 ,
+    'label': ' NGC 6774 ',
+    'colour': ' rgb(0,0,220) '});"
+"557","planetarium.addPointer({
+    'ra':  289 ,
+    'dec':  0.933333333333333 ,
+    'label': ' NGC 6775 ',
+    'colour': ' rgb(0,0,220) '});"
+"558","planetarium.addPointer({
+    'ra':  290 ,
+    'dec':  37.7666666666667 ,
+    'label': ' NGC 6791 ',
+    'colour': ' rgb(0,0,220) '});"
+"559","planetarium.addPointer({
+    'ra':  290.75 ,
+    'dec':  22.1333333333333 ,
+    'label': ' NGC 6793 ',
+    'colour': ' rgb(0,0,220) '});"
+"560","planetarium.addPointer({
+    'ra':  291.5 ,
+    'dec':  3.5 ,
+    'label': ' NGC 6795 ',
+    'colour': ' rgb(0,0,220) '});"
+"561","planetarium.addPointer({
+    'ra':  291.75 ,
+    'dec':  25.1333333333333 ,
+    'label': ' NGC 6800 ',
+    'colour': ' rgb(0,0,220) '});"
+"562","planetarium.addPointer({
+    'ra':  292.5 ,
+    'dec':  20.25 ,
+    'label': ' NGC 6802 ',
+    'colour': ' rgb(0,0,220) '});"
+"563","planetarium.addPointer({
+    'ra':  294.25 ,
+    'dec':  46.3833333333333 ,
+    'label': ' NGC 6811 ',
+    'colour': ' rgb(0,0,220) '});"
+"564","planetarium.addPointer({
+    'ra':  295.25 ,
+    'dec':  40.1833333333333 ,
+    'label': ' NGC 6819 ',
+    'colour': ' rgb(0,0,220) '});"
+"565","planetarium.addPointer({
+    'ra':  295.75 ,
+    'dec':  23.2833333333333 ,
+    'label': ' NGC 6823 ',
+    'colour': ' rgb(0,0,220) '});"
+"566","planetarium.addPointer({
+    'ra':  297 ,
+    'dec':  21.2 ,
+    'label': ' NGC 6827 ',
+    'colour': ' rgb(0,0,220) '});"
+"567","planetarium.addPointer({
+    'ra':  297.5 ,
+    'dec':  7.9 ,
+    'label': ' NGC 6828 ',
+    'colour': ' rgb(0,0,220) '});"
+"568","planetarium.addPointer({
+    'ra':  297.5 ,
+    'dec':  23.1 ,
+    'label': ' NGC 6830 ',
+    'colour': ' rgb(0,0,220) '});"
+"569","planetarium.addPointer({
+    'ra':  297 ,
+    'dec':  59.4166666666667 ,
+    'label': ' NGC 6832 ',
+    'colour': ' rgb(0,0,220) '});"
+"570","planetarium.addPointer({
+    'ra':  298 ,
+    'dec':  29.4 ,
+    'label': ' NGC 6834 ',
+    'colour': ' rgb(0,0,220) '});"
+"571","planetarium.addPointer({
+    'ra':  298.25 ,
+    'dec':  11.6833333333333 ,
+    'label': ' NGC 6837 ',
+    'colour': ' rgb(0,0,220) '});"
+"572","planetarium.addPointer({
+    'ra':  298.75 ,
+    'dec':  12.1 ,
+    'label': ' NGC 6840 ',
+    'colour': ' rgb(0,0,220) '});"
+"573","planetarium.addPointer({
+    'ra':  299 ,
+    'dec':  12.15 ,
+    'label': ' NGC 6843 ',
+    'colour': ' rgb(0,0,220) '});"
+"574","planetarium.addPointer({
+    'ra':  299 ,
+    'dec':  32.3333333333333 ,
+    'label': ' NGC 6846 ',
+    'colour': ' rgb(0,0,220) '});"
+"575","planetarium.addPointer({
+    'ra':  299.75 ,
+    'dec':  56.1166666666667 ,
+    'label': ' NGC 6856 ',
+    'colour': ' rgb(0,0,220) '});"
+"576","planetarium.addPointer({
+    'ra':  300.5 ,
+    'dec':  11.25 ,
+    'label': ' NGC 6858 ',
+    'colour': ' rgb(0,0,220) '});"
+"577","planetarium.addPointer({
+    'ra':  300.75 ,
+    'dec':  44.15 ,
+    'label': ' NGC 6866 ',
+    'colour': ' rgb(0,0,220) '});"
+"578","planetarium.addPointer({
+    'ra':  301.25 ,
+    'dec':  35.7666666666667 ,
+    'label': ' NGC 6871 ',
+    'colour': ' rgb(0,0,220) '});"
+"579","planetarium.addPointer({
+    'ra':  301.75 ,
+    'dec':  21.1 ,
+    'label': ' NGC 6873 ',
+    'colour': ' rgb(0,0,220) '});"
+"580","planetarium.addPointer({
+    'ra':  302.75 ,
+    'dec':  26.4833333333333 ,
+    'label': ' NGC 6882 ',
+    'colour': ' rgb(0,0,220) '});"
+"581","planetarium.addPointer({
+    'ra':  302.75 ,
+    'dec':  35.8166666666667 ,
+    'label': ' NGC 6883 ',
+    'colour': ' rgb(0,0,220) '});"
+"582","planetarium.addPointer({
+    'ra':  304 ,
+    'dec':  50.2333333333333 ,
+    'label': ' NGC 6895 ',
+    'colour': ' rgb(0,0,220) '});"
+"583","planetarium.addPointer({
+    'ra':  305.25 ,
+    'dec':  25.7333333333333 ,
+    'label': ' NGC 6904 ',
+    'colour': ' rgb(0,0,220) '});"
+"584","planetarium.addPointer({
+    'ra':  305.75 ,
+    'dec':  40.7666666666667 ,
+    'label': ' NGC 6910 ',
+    'colour': ' rgb(0,0,220) '});"
+"585","planetarium.addPointer({
+    'ra':  305.75 ,
+    'dec':  38.5 ,
+    'label': ' NGC 6913 ',
+    'colour': ' rgb(0,0,220) '});"
+"586","planetarium.addPointer({
+    'ra':  308.5 ,
+    'dec':  22.2 ,
+    'label': ' NGC 6938 ',
+    'colour': ' rgb(0,0,220) '});"
+"587","planetarium.addPointer({
+    'ra':  307.75 ,
+    'dec':  60.65 ,
+    'label': ' NGC 6939 ',
+    'colour': ' rgb(0,0,220) '});"
+"588","planetarium.addPointer({
+    'ra':  308.5 ,
+    'dec':  28.2666666666667 ,
+    'label': ' NGC 6940 ',
+    'colour': ' rgb(0,0,220) '});"
+"589","planetarium.addPointer({
+    'ra':  310.25 ,
+    'dec':  16.6166666666667 ,
+    'label': ' NGC 6950 ',
+    'colour': ' rgb(0,0,220) '});"
+"590","planetarium.addPointer({
+    'ra':  313.5 ,
+    'dec':  45.2333333333333 ,
+    'label': ' NGC 6989 ',
+    'colour': ' rgb(0,0,220) '});"
+"591","planetarium.addPointer({
+    'ra':  313.5 ,
+    'dec':  47.45 ,
+    'label': ' NGC 6991 ',
+    'colour': ' rgb(0,0,220) '});"
+"592","planetarium.addPointer({
+    'ra':  315.25 ,
+    'dec':  47.35 ,
+    'label': ' NGC 7011 ',
+    'colour': ' rgb(0,0,220) '});"
+"593","planetarium.addPointer({
+    'ra':  316.5 ,
+    'dec':  41.4833333333333 ,
+    'label': ' NGC 7024 ',
+    'colour': ' rgb(0,0,220) '});"
+"594","planetarium.addPointer({
+    'ra':  316.75 ,
+    'dec':  50.8666666666667 ,
+    'label': ' NGC 7031 ',
+    'colour': ' rgb(0,0,220) '});"
+"595","planetarium.addPointer({
+    'ra':  317.5 ,
+    'dec':  15.3666666666667 ,
+    'label': ' NGC 7036 ',
+    'colour': ' rgb(0,0,220) '});"
+"596","planetarium.addPointer({
+    'ra':  317.5 ,
+    'dec':  33.7166666666667 ,
+    'label': ' NGC 7037 ',
+    'colour': ' rgb(0,0,220) '});"
+"597","planetarium.addPointer({
+    'ra':  317.5 ,
+    'dec':  45.6166666666667 ,
+    'label': ' NGC 7039 ',
+    'colour': ' rgb(0,0,220) '});"
+"598","planetarium.addPointer({
+    'ra':  318.25 ,
+    'dec':  42.4833333333333 ,
+    'label': ' NGC 7044 ',
+    'colour': ' rgb(0,0,220) '});"
+"599","planetarium.addPointer({
+    'ra':  318.75 ,
+    'dec':  36.1666666666667 ,
+    'label': ' NGC 7050 ',
+    'colour': ' rgb(0,0,220) '});"
+"600","planetarium.addPointer({
+    'ra':  319.75 ,
+    'dec':  57.5333333333333 ,
+    'label': ' NGC 7055 ',
+    'colour': ' rgb(0,0,220) '});"
+"601","planetarium.addPointer({
+    'ra':  320.25 ,
+    'dec':  50.8166666666667 ,
+    'label': ' NGC 7058 ',
+    'colour': ' rgb(0,0,220) '});"
+"602","planetarium.addPointer({
+    'ra':  320.75 ,
+    'dec':  46.3666666666667 ,
+    'label': ' NGC 7062 ',
+    'colour': ' rgb(0,0,220) '});"
+"603","planetarium.addPointer({
+    'ra':  321 ,
+    'dec':  36.4833333333333 ,
+    'label': ' NGC 7063 ',
+    'colour': ' rgb(0,0,220) '});"
+"604","planetarium.addPointer({
+    'ra':  321 ,
+    'dec':  48 ,
+    'label': ' NGC 7067 ',
+    'colour': ' rgb(0,0,220) '});"
+"605","planetarium.addPointer({
+    'ra':  322.25 ,
+    'dec':  47.1166666666667 ,
+    'label': ' NGC 7082 ',
+    'colour': ' rgb(0,0,220) '});"
+"606","planetarium.addPointer({
+    'ra':  323 ,
+    'dec':  17.5 ,
+    'label': ' NGC 7084 ',
+    'colour': ' rgb(0,0,220) '});"
+"607","planetarium.addPointer({
+    'ra':  322.5 ,
+    'dec':  51.6 ,
+    'label': ' NGC 7086 ',
+    'colour': ' rgb(0,0,220) '});"
+"608","planetarium.addPointer({
+    'ra':  322.75 ,
+    'dec':  48.4333333333333 ,
+    'label': ' NGC 7092 ',
+    'colour': ' rgb(0,0,220) '});"
+"609","planetarium.addPointer({
+    'ra':  323.5 ,
+    'dec':  45.95 ,
+    'label': ' NGC 7093 ',
+    'colour': ' rgb(0,0,220) '});"
+"610","planetarium.addPointer({
+    'ra':  325.75 ,
+    'dec':  54.6166666666667 ,
+    'label': ' NGC 7127 ',
+    'colour': ' rgb(0,0,220) '});"
+"611","planetarium.addPointer({
+    'ra':  325.75 ,
+    'dec':  53.7 ,
+    'label': ' NGC 7128 ',
+    'colour': ' rgb(0,0,220) '});"
+"612","planetarium.addPointer({
+    'ra':  326.25 ,
+    'dec':  65.7666666666667 ,
+    'label': ' NGC 7142 ',
+    'colour': ' rgb(0,0,220) '});"
+"613","planetarium.addPointer({
+    'ra':  328.25 ,
+    'dec':  62.6 ,
+    'label': ' NGC 7160 ',
+    'colour': ' rgb(0,0,220) '});"
+"614","planetarium.addPointer({
+    'ra':  329.5 ,
+    'dec':  54.8 ,
+    'label': ' NGC 7175 ',
+    'colour': ' rgb(0,0,220) '});"
+"615","planetarium.addPointer({
+    'ra':  330.75 ,
+    'dec':  10.8 ,
+    'label': ' NGC 7193 ',
+    'colour': ' rgb(0,0,220) '});"
+"616","planetarium.addPointer({
+    'ra':  331.25 ,
+    'dec':  46.4833333333333 ,
+    'label': ' NGC 7209 ',
+    'colour': ' rgb(0,0,220) '});"
+"617","planetarium.addPointer({
+    'ra':  332.5 ,
+    'dec':  55.3833333333333 ,
+    'label': ' NGC 7226 ',
+    'colour': ' rgb(0,0,220) '});"
+"618","planetarium.addPointer({
+    'ra':  333 ,
+    'dec':  57.2666666666667 ,
+    'label': ' NGC 7234 ',
+    'colour': ' rgb(0,0,220) '});"
+"619","planetarium.addPointer({
+    'ra':  333.75 ,
+    'dec':  49.8833333333333 ,
+    'label': ' NGC 7243 ',
+    'colour': ' rgb(0,0,220) '});"
+"620","planetarium.addPointer({
+    'ra':  333.75 ,
+    'dec':  54.3333333333333 ,
+    'label': ' NGC 7245 ',
+    'colour': ' rgb(0,0,220) '});"
+"621","planetarium.addPointer({
+    'ra':  335 ,
+    'dec':  58.05 ,
+    'label': ' NGC 7261 ',
+    'colour': ' rgb(0,0,220) '});"
+"622","planetarium.addPointer({
+    'ra':  336.25 ,
+    'dec':  57.8166666666667 ,
+    'label': ' NGC 7281 ',
+    'colour': ' rgb(0,0,220) '});"
+"623","planetarium.addPointer({
+    'ra':  337 ,
+    'dec':  52.2833333333333 ,
+    'label': ' NGC 7295 ',
+    'colour': ' rgb(0,0,220) '});"
+"624","planetarium.addPointer({
+    'ra':  341.75 ,
+    'dec':  58.1166666666667 ,
+    'label': ' NGC 7380 ',
+    'colour': ' rgb(0,0,220) '});"
+"625","planetarium.addPointer({
+    'ra':  342.5 ,
+    'dec':  52.1666666666667 ,
+    'label': ' NGC 7394 ',
+    'colour': ' rgb(0,0,220) '});"
+"626","planetarium.addPointer({
+    'ra':  343.5 ,
+    'dec':  60.8 ,
+    'label': ' NGC 7419 ',
+    'colour': ' rgb(0,0,220) '});"
+"627","planetarium.addPointer({
+    'ra':  343.75 ,
+    'dec':  57.0833333333333 ,
+    'label': ' NGC 7423 ',
+    'colour': ' rgb(0,0,220) '});"
+"628","planetarium.addPointer({
+    'ra':  344 ,
+    'dec':  59.9666666666667 ,
+    'label': ' NGC 7429 ',
+    'colour': ' rgb(0,0,220) '});"
+"629","planetarium.addPointer({
+    'ra':  344.25 ,
+    'dec':  54.3 ,
+    'label': ' NGC 7438 ',
+    'colour': ' rgb(0,0,220) '});"
+"630","planetarium.addPointer({
+    'ra':  347.75 ,
+    'dec':  60.5666666666667 ,
+    'label': ' NGC 7510 ',
+    'colour': ' rgb(0,0,220) '});"
+"631","planetarium.addPointer({
+    'ra':  351 ,
+    'dec':  61.5833333333333 ,
+    'label': ' NGC 7654 ',
+    'colour': ' rgb(0,0,220) '});"
+"632","planetarium.addPointer({
+    'ra':  352.5 ,
+    'dec':  49.1333333333333 ,
+    'label': ' NGC 7686 ',
+    'colour': ' rgb(0,0,220) '});"
+"633","planetarium.addPointer({
+    'ra':  353.75 ,
+    'dec':  72.8166666666667 ,
+    'label': ' NGC 7708 ',
+    'colour': ' rgb(0,0,220) '});"
+"634","planetarium.addPointer({
+    'ra':  357.5 ,
+    'dec':  68.0333333333333 ,
+    'label': ' NGC 7762 ',
+    'colour': ' rgb(0,0,220) '});"
+"635","planetarium.addPointer({
+    'ra':  357.75 ,
+    'dec':  16.2333333333333 ,
+    'label': ' NGC 7772 ',
+    'colour': ' rgb(0,0,220) '});"
+"636","planetarium.addPointer({
+    'ra':  359 ,
+    'dec':  61.3833333333333 ,
+    'label': ' NGC 7788 ',
+    'colour': ' rgb(0,0,220) '});"
+"637","planetarium.addPointer({
+    'ra':  359.25 ,
+    'dec':  56.7 ,
+    'label': ' NGC 7789 ',
+    'colour': ' rgb(0,0,220) '});"
+"638","planetarium.addPointer({
+    'ra':  359.5 ,
+    'dec':  61.2 ,
+    'label': ' NGC 7790 ',
+    'colour': ' rgb(0,0,220) '});"
+"639","planetarium.addPointer({
+    'ra':  359.5 ,
+    'dec':  60.0333333333333 ,
+    'label': ' NGC 7795 ',
+    'colour': ' rgb(0,0,220) '});"

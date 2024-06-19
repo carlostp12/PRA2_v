@@ -1,0 +1,73 @@
+"","Name","Type","Magnitude","Distance","Constellation","RA","DEC","Other.Names","dec_n","ra_n","script","gaB","gaL","scriptGal"
+"1715","NGC 1715","Emission nebula","–","","Dorado","04h52m","-66°54'","",-65.1,73,"planetarium.addPointer({
+    'ra':  73 ,
+    'dec':  -65.1 ,
+    'label': ' NGC 1715 ',
+    'colour': ' rgb(162, 168, 50) '});",-1.00621914331103,1.49556134300152,"planetarium.addPointer({
+    'ra':  73 ,
+    'dec':  -65.1 ,
+    'label': ' NGC 1715 ',
+    'colour': ' rgb(0,153,0) '});"
+"1736","NGC 1736","Emission nebula","15.5","","Dorado","04h53m","-68°03'","",-67.95,73.25,"planetarium.addPointer({
+    'ra':  73.25 ,
+    'dec':  -67.95 ,
+    'label': ' NGC 1736 ',
+    'colour': ' rgb(162, 168, 50) '});",0.736998863374338,1.76287349222506,"planetarium.addPointer({
+    'ra':  73.25 ,
+    'dec':  -67.95 ,
+    'label': ' NGC 1736 ',
+    'colour': ' rgb(0,153,0) '});"
+"1769","NGC 1769","Emission nebula","–","","Dorado","04h57m","-66°28'","",-65.5333333333333,74.25,"planetarium.addPointer({
+    'ra':  74.25 ,
+    'dec':  -65.5333333333333 ,
+    'label': ' NGC 1769 ',
+    'colour': ' rgb(162, 168, 50) '});",-0.0295978736364528,1.05950855571052,"planetarium.addPointer({
+    'ra':  74.25 ,
+    'dec':  -65.5333333333333 ,
+    'label': ' NGC 1769 ',
+    'colour': ' rgb(0,153,0) '});"
+"1936","NGC 1936","Emission nebula","11.6","","Dorado","05h22m","-67°58'","",-66.0333333333333,80.5,"planetarium.addPointer({
+    'ra':  80.5 ,
+    'dec':  -66.0333333333333 ,
+    'label': ' NGC 1936 ',
+    'colour': ' rgb(162, 168, 50) '});",0.183378665484484,0.603741785753615,"planetarium.addPointer({
+    'ra':  80.5 ,
+    'dec':  -66.0333333333333 ,
+    'label': ' NGC 1936 ',
+    'colour': ' rgb(0,153,0) '});"
+"1945","NGC 1945","Emission nebula","–","","Dorado","05h24m","-66°27'","",-65.55,81,"planetarium.addPointer({
+    'ra':  81 ,
+    'dec':  -65.55 ,
+    'label': ' NGC 1945 ',
+    'colour': ' rgb(162, 168, 50) '});",0.322632564718894,1.2987148385158,"planetarium.addPointer({
+    'ra':  81 ,
+    'dec':  -65.55 ,
+    'label': ' NGC 1945 ',
+    'colour': ' rgb(0,153,0) '});"
+"2020","NGC 2020","Emission nebula","–","","Dorado","05h33m","-67°42'","",-66.3,83.25,"planetarium.addPointer({
+    'ra':  83.25 ,
+    'dec':  -66.3 ,
+    'label': ' NGC 2020 ',
+    'colour': ' rgb(162, 168, 50) '});",0.334032098398925,0.78014743181724,"planetarium.addPointer({
+    'ra':  83.25 ,
+    'dec':  -66.3 ,
+    'label': ' NGC 2020 ',
+    'colour': ' rgb(0,153,0) '});"
+"2048","NGC 2048","Emission nebula","12.2","","Dorado","05h35m","-69°38'","",-68.3666666666667,83.75,"planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -68.3666666666667 ,
+    'label': ' NGC 2048 ',
+    'colour': ' rgb(162, 168, 50) '});",0.518329593349784,-0.0507892512312595,"planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -68.3666666666667 ,
+    'label': ' NGC 2048 ',
+    'colour': ' rgb(0,153,0) '});"
+"2078","NGC 2078","Emission nebula","10.9","","Dorado","05h39m","-69°44'","",-68.2666666666667,84.75,"planetarium.addPointer({
+    'ra':  84.75 ,
+    'dec':  -68.2666666666667 ,
+    'label': ' NGC 2078 ',
+    'colour': ' rgb(162, 168, 50) '});",1.13918795986155,-0.531077590211496,"planetarium.addPointer({
+    'ra':  84.75 ,
+    'dec':  -68.2666666666667 ,
+    'label': ' NGC 2078 ',
+    'colour': ' rgb(0,153,0) '});"

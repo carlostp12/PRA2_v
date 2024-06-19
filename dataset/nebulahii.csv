@@ -1,0 +1,442 @@
+"","Name","Type","Magnitude","Distance","Constellation","RA","DEC","Other.Names","dec_n","ra_n","script","gaB","gaL","scriptGal"
+"249","NGC 249","HII region","13.8","","Tucana","00h45m","-73°04'","",-72.9333333333333,11.25,"planetarium.addPointer({
+    'ra':  11.25 ,
+    'dec':  -72.9333333333333 ,
+    'label': ' NGC 249 ',
+    'colour': ' rgb(117, 50, 168) '});",0.32182606456814,-0.0311918472869565,"planetarium.addPointer({
+    'ra':  11.25 ,
+    'dec':  -72.9333333333333 ,
+    'label': ' NGC 249 ',
+    'colour': ' rgb(0,153,0) '});"
+"281","NGC 281","HII region","–","","Cassiopeia","00h52m","+56°37'","Pacman Nebula",56.6166666666667,13,"planetarium.addPointer({
+    'ra':  13 ,
+    'dec':  56.6166666666667 ,
+    'label': ' NGC 281 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.98483152977952,-0.590291841319219,"planetarium.addPointer({
+    'ra':  13 ,
+    'dec':  56.6166666666667 ,
+    'label': ' NGC 281 ',
+    'colour': ' rgb(0,153,0) '});"
+"588","NGC 588","HII region","14.4","","Triangulum","01h32m","+30°38'","",30.6333333333333,23,"planetarium.addPointer({
+    'ra':  23 ,
+    'dec':  30.6333333333333 ,
+    'label': ' NGC 588 ',
+    'colour': ' rgb(117, 50, 168) '});",0.116602126549076,-0.459819264033372,"planetarium.addPointer({
+    'ra':  23 ,
+    'dec':  30.6333333333333 ,
+    'label': ' NGC 588 ',
+    'colour': ' rgb(0,153,0) '});"
+"595","NGC 595","HII region","–","","Triangulum","01h33m","+30°41'","",30.6833333333333,23.25,"planetarium.addPointer({
+    'ra':  23.25 ,
+    'dec':  30.6833333333333 ,
+    'label': ' NGC 595 ',
+    'colour': ' rgb(117, 50, 168) '});",0.0234680347375493,-0.295935909568391,"planetarium.addPointer({
+    'ra':  23.25 ,
+    'dec':  30.6833333333333 ,
+    'label': ' NGC 595 ',
+    'colour': ' rgb(0,153,0) '});"
+"604","NGC 604","HII region","–","","Triangulum","01h34m","+30°47'","",30.7833333333333,23.5,"planetarium.addPointer({
+    'ra':  23.5 ,
+    'dec':  30.7833333333333 ,
+    'label': ' NGC 604 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.0772160661366423,-0.102597500616182,"planetarium.addPointer({
+    'ra':  23.5 ,
+    'dec':  30.7833333333333 ,
+    'label': ' NGC 604 ',
+    'colour': ' rgb(0,153,0) '});"
+"1432","NGC 1432","HII region","–","","Taurus","03h45m","+24°22'","Maia Nebula",24.3666666666667,56.25,"planetarium.addPointer({
+    'ra':  56.25 ,
+    'dec':  24.3666666666667 ,
+    'label': ' NGC 1432 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.06888516239268,-0.169752548318255,"planetarium.addPointer({
+    'ra':  56.25 ,
+    'dec':  24.3666666666667 ,
+    'label': ' NGC 1432 ',
+    'colour': ' rgb(0,153,0) '});"
+"1491","NGC 1491","HII region","–","","Perseus","04h03m","+51°18'","",51.3,60.75,"planetarium.addPointer({
+    'ra':  60.75 ,
+    'dec':  51.3 ,
+    'label': ' NGC 1491 ',
+    'colour': ' rgb(117, 50, 168) '});",0.770312629293405,1.58489457316884,"planetarium.addPointer({
+    'ra':  60.75 ,
+    'dec':  51.3 ,
+    'label': ' NGC 1491 ',
+    'colour': ' rgb(0,153,0) '});"
+"1737","NGC 1737","HII region","–","","Dorado","04h53m","-69°10'","",-68.8333333333333,73.25,"planetarium.addPointer({
+    'ra':  73.25 ,
+    'dec':  -68.8333333333333 ,
+    'label': ' NGC 1737 ',
+    'colour': ' rgb(117, 50, 168) '});",0.824891752391794,0.476399801839243,"planetarium.addPointer({
+    'ra':  73.25 ,
+    'dec':  -68.8333333333333 ,
+    'label': ' NGC 1737 ',
+    'colour': ' rgb(0,153,0) '});"
+"1760","NGC 1760","HII region","–","","Dorado","04h56m","-66°31'","",-65.4833333333333,74,"planetarium.addPointer({
+    'ra':  74 ,
+    'dec':  -65.4833333333333 ,
+    'label': ' NGC 1760 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.25155894723004,1.00325206627303,"planetarium.addPointer({
+    'ra':  74 ,
+    'dec':  -65.4833333333333 ,
+    'label': ' NGC 1760 ',
+    'colour': ' rgb(0,153,0) '});"
+"1880","NGC 1880","HII region","12.8","","Dorado","05h13m","-69°22'","",-68.6333333333333,78.25,"planetarium.addPointer({
+    'ra':  78.25 ,
+    'dec':  -68.6333333333333 ,
+    'label': ' NGC 1880 ',
+    'colour': ' rgb(117, 50, 168) '});",1.12509307940755,0.450293430231272,"planetarium.addPointer({
+    'ra':  78.25 ,
+    'dec':  -68.6333333333333 ,
+    'label': ' NGC 1880 ',
+    'colour': ' rgb(0,153,0) '});"
+"1899","NGC 1899","HII region","–","","Dorado","05h17m","-67°54'","",-66.1,79.25,"planetarium.addPointer({
+    'ra':  79.25 ,
+    'dec':  -66.1 ,
+    'label': ' NGC 1899 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.798540465641169,-0.250834889172882,"planetarium.addPointer({
+    'ra':  79.25 ,
+    'dec':  -66.1 ,
+    'label': ' NGC 1899 ',
+    'colour': ' rgb(0,153,0) '});"
+"1920","NGC 1920","HII region","12.5","","Dorado","05h20m","-66°46'","",-65.2333333333333,80,"planetarium.addPointer({
+    'ra':  80 ,
+    'dec':  -65.2333333333333 ,
+    'label': ' NGC 1920 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.546040050915084,1.18736187760846,"planetarium.addPointer({
+    'ra':  80 ,
+    'dec':  -65.2333333333333 ,
+    'label': ' NGC 1920 ',
+    'colour': ' rgb(0,153,0) '});"
+"1935","NGC 1935","HII region","–","","Dorado","05h21m","-67°57'","",-66.05,80.25,"planetarium.addPointer({
+    'ra':  80.25 ,
+    'dec':  -66.05 ,
+    'label': ' NGC 1935 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.0306218553604512,0.473928332762236,"planetarium.addPointer({
+    'ra':  80.25 ,
+    'dec':  -66.05 ,
+    'label': ' NGC 1935 ',
+    'colour': ' rgb(0,153,0) '});"
+"1955","NGC 1955","HII region","8.9","","Dorado","05h26m","-67°29'","",-66.5166666666667,81.5,"planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -66.5166666666667 ,
+    'label': ' NGC 1955 ',
+    'colour': ' rgb(117, 50, 168) '});",1.22059204582372,0.294627228768127,"planetarium.addPointer({
+    'ra':  81.5 ,
+    'dec':  -66.5166666666667 ,
+    'label': ' NGC 1955 ',
+    'colour': ' rgb(0,153,0) '});"
+"1982","NGC 1982","HII region","9.0","0.5","Orion","05h35m","-05°16'","De Mairan's Nebula, M 43",-4.73333333333333,83.75,"planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -4.73333333333333 ,
+    'label': ' NGC 1982 ',
+    'colour': ' rgb(117, 50, 168) '});",0.483983244492228,-0.971913765535612,"planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -4.73333333333333 ,
+    'label': ' NGC 1982 ',
+    'colour': ' rgb(0,153,0) '});"
+"2018","NGC 2018","HII region","10.9","","Mensa","05h31m","-71°04'","",-70.9333333333333,82.75,"planetarium.addPointer({
+    'ra':  82.75 ,
+    'dec':  -70.9333333333333 ,
+    'label': ' NGC 2018 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.308276368277591,-0.799426666624309,"planetarium.addPointer({
+    'ra':  82.75 ,
+    'dec':  -70.9333333333333 ,
+    'label': ' NGC 2018 ',
+    'colour': ' rgb(0,153,0) '});"
+"2030","NGC 2030","HII region","12.3","","Dorado","05h34m","-67°33'","",-66.45,83.5,"planetarium.addPointer({
+    'ra':  83.5 ,
+    'dec':  -66.45 ,
+    'label': ' NGC 2030 ',
+    'colour': ' rgb(117, 50, 168) '});",0.185351553258364,1.01899526671846,"planetarium.addPointer({
+    'ra':  83.5 ,
+    'dec':  -66.45 ,
+    'label': ' NGC 2030 ',
+    'colour': ' rgb(0,153,0) '});"
+"2032","NGC 2032","HII region","–","","Dorado","05h35m","-67°34'","",-66.4333333333333,83.75,"planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -66.4333333333333 ,
+    'label': ' NGC 2032 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.018654146041053,1.11099209096995,"planetarium.addPointer({
+    'ra':  83.75 ,
+    'dec':  -66.4333333333333 ,
+    'label': ' NGC 2032 ',
+    'colour': ' rgb(0,153,0) '});"
+"2070","NGC 2070","HII region","1.0","52.0","Dorado","05h38m","-69°06'","30 Doradus, Tarantula Nebula, True Lovers' Knot, Looped Nebula, C 103",-68.9,84.5,"planetarium.addPointer({
+    'ra':  84.5 ,
+    'dec':  -68.9 ,
+    'label': ' NGC 2070 ',
+    'colour': ' rgb(117, 50, 168) '});",1.00389570413278,0.951610324190856,"planetarium.addPointer({
+    'ra':  84.5 ,
+    'dec':  -68.9 ,
+    'label': ' NGC 2070 ',
+    'colour': ' rgb(0,153,0) '});"
+"2079","NGC 2079","HII region","11.8","","Dorado","05h39m","-69°45'","",-68.25,84.75,"planetarium.addPointer({
+    'ra':  84.75 ,
+    'dec':  -68.25 ,
+    'label': ' NGC 2079 ',
+    'colour': ' rgb(117, 50, 168) '});",1.12575380327517,-0.554321825815124,"planetarium.addPointer({
+    'ra':  84.75 ,
+    'dec':  -68.25 ,
+    'label': ' NGC 2079 ',
+    'colour': ' rgb(0,153,0) '});"
+"2080","NGC 2080","HII region","10.4","","Dorado","05h39m","-69°38'","Ghost Head Nebula",-68.3666666666667,84.75,"planetarium.addPointer({
+    'ra':  84.75 ,
+    'dec':  -68.3666666666667 ,
+    'label': ' NGC 2080 ',
+    'colour': ' rgb(117, 50, 168) '});",1.21438711187696,-0.358439289748225,"planetarium.addPointer({
+    'ra':  84.75 ,
+    'dec':  -68.3666666666667 ,
+    'label': ' NGC 2080 ',
+    'colour': ' rgb(0,153,0) '});"
+"2103","NGC 2103","HII region","10.8","","Mensa","05h41m","-71°19'","",-70.6833333333333,85.25,"planetarium.addPointer({
+    'ra':  85.25 ,
+    'dec':  -70.6833333333333 ,
+    'label': ' NGC 2103 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.475775513579578,-0.994032860020394,"planetarium.addPointer({
+    'ra':  85.25 ,
+    'dec':  -70.6833333333333 ,
+    'label': ' NGC 2103 ',
+    'colour': ' rgb(0,153,0) '});"
+"2183","NGC 2183","HII region","15.2","","Monoceros","06h10m","-06°12'","",-5.8,92.5,"planetarium.addPointer({
+    'ra':  92.5 ,
+    'dec':  -5.8 ,
+    'label': ' NGC 2183 ',
+    'colour': ' rgb(117, 50, 168) '});",0.538998903785257,0.880598083341271,"planetarium.addPointer({
+    'ra':  92.5 ,
+    'dec':  -5.8 ,
+    'label': ' NGC 2183 ',
+    'colour': ' rgb(0,153,0) '});"
+"2238","NGC 2238","HII region","6.0","","Monoceros","06h30m","+05°00'","",5,97.5,"planetarium.addPointer({
+    'ra':  97.5 ,
+    'dec':  5 ,
+    'label': ' NGC 2238 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.19197342984724,2.11719831602629,"planetarium.addPointer({
+    'ra':  97.5 ,
+    'dec':  5 ,
+    'label': ' NGC 2238 ',
+    'colour': ' rgb(0,153,0) '});"
+"2282","NGC 2282","HII region","10.0","","Monoceros","06h46m","+01°18'","",1.3,101.5,"planetarium.addPointer({
+    'ra':  101.5 ,
+    'dec':  1.3 ,
+    'label': ' NGC 2282 ',
+    'colour': ' rgb(117, 50, 168) '});",0.273923032982095,-0.802997466670288,"planetarium.addPointer({
+    'ra':  101.5 ,
+    'dec':  1.3 ,
+    'label': ' NGC 2282 ',
+    'colour': ' rgb(0,153,0) '});"
+"2359","NGC 2359","HII region","–","","Canis Major","07h18m","-13°13'","Duck Nebula, Thor's Helmet",-12.7833333333333,109.5,"planetarium.addPointer({
+    'ra':  109.5 ,
+    'dec':  -12.7833333333333 ,
+    'label': ' NGC 2359 ',
+    'colour': ' rgb(117, 50, 168) '});",0.619654728245482,1.3071828354695,"planetarium.addPointer({
+    'ra':  109.5 ,
+    'dec':  -12.7833333333333 ,
+    'label': ' NGC 2359 ',
+    'colour': ' rgb(0,153,0) '});"
+"2404","NGC 2404","HII region","–","","Camelopardalis","07h37m","+65°36'","",65.6,114.25,"planetarium.addPointer({
+    'ra':  114.25 ,
+    'dec':  65.6 ,
+    'label': ' NGC 2404 ',
+    'colour': ' rgb(117, 50, 168) '});",0.715751854120839,0.670119222357659,"planetarium.addPointer({
+    'ra':  114.25 ,
+    'dec':  65.6 ,
+    'label': ' NGC 2404 ',
+    'colour': ' rgb(0,153,0) '});"
+"2736","NGC 2736","HII region","–","","Vela","09h00m","-45°56'","Herschel's Ray, Pencil",-44.0666666666667,135,"planetarium.addPointer({
+    'ra':  135 ,
+    'dec':  -44.0666666666667 ,
+    'label': ' NGC 2736 ',
+    'colour': ' rgb(117, 50, 168) '});",0.936965351965939,1.62233722562353,"planetarium.addPointer({
+    'ra':  135 ,
+    'dec':  -44.0666666666667 ,
+    'label': ' NGC 2736 ',
+    'colour': ' rgb(0,153,0) '});"
+"2847","NGC 2847","HII region","–","","Hydra","09h20m","-16°31'","",-15.4833333333333,140,"planetarium.addPointer({
+    'ra':  140 ,
+    'dec':  -15.4833333333333 ,
+    'label': ' NGC 2847 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.0899269584763449,0.369530758559455,"planetarium.addPointer({
+    'ra':  140 ,
+    'dec':  -15.4833333333333 ,
+    'label': ' NGC 2847 ',
+    'colour': ' rgb(0,153,0) '});"
+"3180","NGC 3180","HII region","–","","Ursa Major","10h18m","+41°26'","",41.4333333333333,154.5,"planetarium.addPointer({
+    'ra':  154.5 ,
+    'dec':  41.4333333333333 ,
+    'label': ' NGC 3180 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.25093637346393,1.02720534962051,"planetarium.addPointer({
+    'ra':  154.5 ,
+    'dec':  41.4333333333333 ,
+    'label': ' NGC 3180 ',
+    'colour': ' rgb(0,153,0) '});"
+"3181","NGC 3181","HII region","15.8","","Ursa Major","10h18m","+41°24'","",41.4,154.5,"planetarium.addPointer({
+    'ra':  154.5 ,
+    'dec':  41.4 ,
+    'label': ' NGC 3181 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.25828738525944,0.922593718929491,"planetarium.addPointer({
+    'ra':  154.5 ,
+    'dec':  41.4 ,
+    'label': ' NGC 3181 ',
+    'colour': ' rgb(0,153,0) '});"
+"3247","NGC 3247","HII region","7.6","","Carina","10h24m","-57°45'","",-56.25,156,"planetarium.addPointer({
+    'ra':  156 ,
+    'dec':  -56.25 ,
+    'label': ' NGC 3247 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.0970777490488861,0.969724404775317,"planetarium.addPointer({
+    'ra':  156 ,
+    'dec':  -56.25 ,
+    'label': ' NGC 3247 ',
+    'colour': ' rgb(0,153,0) '});"
+"3372","NGC 3372","HII region","6.2","","Carina","10h45m","-59°52'","Eta Carinae Nebula, Keyhole Nebula, C 92",-58.1333333333333,161.25,"planetarium.addPointer({
+    'ra':  161.25 ,
+    'dec':  -58.1333333333333 ,
+    'label': ' NGC 3372 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.487706391728689,2.13553979156008,"planetarium.addPointer({
+    'ra':  161.25 ,
+    'dec':  -58.1333333333333 ,
+    'label': ' NGC 3372 ',
+    'colour': ' rgb(0,153,0) '});"
+"3576","NGC 3576","HII region","–","","Carina","11h11m","-61°21'","",-60.65,167.75,"planetarium.addPointer({
+    'ra':  167.75 ,
+    'dec':  -60.65 ,
+    'label': ' NGC 3576 ',
+    'colour': ' rgb(117, 50, 168) '});",0.115728965314205,-0.475983332079664,"planetarium.addPointer({
+    'ra':  167.75 ,
+    'dec':  -60.65 ,
+    'label': ' NGC 3576 ',
+    'colour': ' rgb(0,153,0) '});"
+"3581","NGC 3581","HII region","–","","Carina","11h12m","-61°18'","",-60.7,168,"planetarium.addPointer({
+    'ra':  168 ,
+    'dec':  -60.7 ,
+    'label': ' NGC 3581 ',
+    'colour': ' rgb(117, 50, 168) '});",0.257863756325093,-0.439028170485502,"planetarium.addPointer({
+    'ra':  168 ,
+    'dec':  -60.7 ,
+    'label': ' NGC 3581 ',
+    'colour': ' rgb(0,153,0) '});"
+"4559","NGC 4559","HII region","9.8","","Coma Berenices","12h35m","+27°55'","C 36",27.9166666666667,188.75,"planetarium.addPointer({
+    'ra':  188.75 ,
+    'dec':  27.9166666666667 ,
+    'label': ' NGC 4559 ',
+    'colour': ' rgb(117, 50, 168) '});",1.44466248994954,-0.687302472075299,"planetarium.addPointer({
+    'ra':  188.75 ,
+    'dec':  27.9166666666667 ,
+    'label': ' NGC 4559 ',
+    'colour': ' rgb(0,153,0) '});"
+"5447","NGC 5447","HII region","–","","Ursa Major","14h02m","+54°16'","",54.2666666666667,210.5,"planetarium.addPointer({
+    'ra':  210.5 ,
+    'dec':  54.2666666666667 ,
+    'label': ' NGC 5447 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.15935286649881,-0.663539025692025,"planetarium.addPointer({
+    'ra':  210.5 ,
+    'dec':  54.2666666666667 ,
+    'label': ' NGC 5447 ',
+    'colour': ' rgb(0,153,0) '});"
+"5450","NGC 5450","HII region","–","","Ursa Major","14h02m","+54°16'","",54.2666666666667,210.5,"planetarium.addPointer({
+    'ra':  210.5 ,
+    'dec':  54.2666666666667 ,
+    'label': ' NGC 5450 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.15935286649881,-0.663539025692025,"planetarium.addPointer({
+    'ra':  210.5 ,
+    'dec':  54.2666666666667 ,
+    'label': ' NGC 5450 ',
+    'colour': ' rgb(0,153,0) '});"
+"5451","NGC 5451","HII region","16.7","","Ursa Major","14h02m","+54°21'","",54.35,210.5,"planetarium.addPointer({
+    'ra':  210.5 ,
+    'dec':  54.35 ,
+    'label': ' NGC 5451 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.08329338240995,-0.742186778008792,"planetarium.addPointer({
+    'ra':  210.5 ,
+    'dec':  54.35 ,
+    'label': ' NGC 5451 ',
+    'colour': ' rgb(0,153,0) '});"
+"5453","NGC 5453","HII region","–","","Ursa Major","14h02m","+54°18'","",54.3,210.5,"planetarium.addPointer({
+    'ra':  210.5 ,
+    'dec':  54.3 ,
+    'label': ' NGC 5453 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.12922272921916,-0.698025348885075,"planetarium.addPointer({
+    'ra':  210.5 ,
+    'dec':  54.3 ,
+    'label': ' NGC 5453 ',
+    'colour': ' rgb(0,153,0) '});"
+"5455","NGC 5455","HII region","15.2","","Ursa Major","14h03m","+54°14'","",54.2333333333333,210.75,"planetarium.addPointer({
+    'ra':  210.75 ,
+    'dec':  54.2333333333333 ,
+    'label': ' NGC 5455 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.22060509259679,2.04909881815438,"planetarium.addPointer({
+    'ra':  210.75 ,
+    'dec':  54.2333333333333 ,
+    'label': ' NGC 5455 ',
+    'colour': ' rgb(0,153,0) '});"
+"5458","NGC 5458","HII region","–","","Ursa Major","14h03m","+54°17'","",54.2833333333333,210.75,"planetarium.addPointer({
+    'ra':  210.75 ,
+    'dec':  54.2833333333333 ,
+    'label': ' NGC 5458 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.17096737328477,2.06553621822068,"planetarium.addPointer({
+    'ra':  210.75 ,
+    'dec':  54.2833333333333 ,
+    'label': ' NGC 5458 ',
+    'colour': ' rgb(0,153,0) '});"
+"5461","NGC 5461","HII region","14.4","","Ursa Major","14h03m","+54°19'","",54.3166666666667,210.75,"planetarium.addPointer({
+    'ra':  210.75 ,
+    'dec':  54.3166666666667 ,
+    'label': ' NGC 5461 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.13783143683589,2.07449858398753,"planetarium.addPointer({
+    'ra':  210.75 ,
+    'dec':  54.3166666666667 ,
+    'label': ' NGC 5461 ',
+    'colour': ' rgb(0,153,0) '});"
+"5462","NGC 5462","HII region","18.2","","Ursa Major","14h03m","+54°21'","",54.35,210.75,"planetarium.addPointer({
+    'ra':  210.75 ,
+    'dec':  54.35 ,
+    'label': ' NGC 5462 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.10466900409147,2.08226104940322,"planetarium.addPointer({
+    'ra':  210.75 ,
+    'dec':  54.35 ,
+    'label': ' NGC 5462 ',
+    'colour': ' rgb(0,153,0) '});"
+"5471","NGC 5471","HII region","14.5","","Ursa Major","14h04m","+54°23'","",54.3833333333333,211,"planetarium.addPointer({
+    'ra':  211 ,
+    'dec':  54.3833333333333 ,
+    'label': ' NGC 5471 ',
+    'colour': ' rgb(117, 50, 168) '});",-1.02822895541425,1.82117828274252,"planetarium.addPointer({
+    'ra':  211 ,
+    'dec':  54.3833333333333 ,
+    'label': ' NGC 5471 ',
+    'colour': ' rgb(0,153,0) '});"
+"6857","NGC 6857","HII region","11.4","","Cygnus","20h01m","+33°31'","",33.5166666666667,300.25,"planetarium.addPointer({
+    'ra':  300.25 ,
+    'dec':  33.5166666666667 ,
+    'label': ' NGC 6857 ',
+    'colour': ' rgb(117, 50, 168) '});",0.415233693471468,-0.409418493061387,"planetarium.addPointer({
+    'ra':  300.25 ,
+    'dec':  33.5166666666667 ,
+    'label': ' NGC 6857 ',
+    'colour': ' rgb(0,153,0) '});"
+"6888","NGC 6888","HII region","7.5","","Cygnus","20h12m","+38°21'","Crescent Nebula, C 27",38.35,303,"planetarium.addPointer({
+    'ra':  303 ,
+    'dec':  38.35 ,
+    'label': ' NGC 6888 ',
+    'colour': ' rgb(117, 50, 168) '});",0.0184972905537243,-0.162064501951452,"planetarium.addPointer({
+    'ra':  303 ,
+    'dec':  38.35 ,
+    'label': ' NGC 6888 ',
+    'colour': ' rgb(0,153,0) '});"
+"7000","NGC 7000","HII region","6.0","","Cygnus","20h59m","+44°31'","North America Nebula, C 20",44.5166666666667,314.75,"planetarium.addPointer({
+    'ra':  314.75 ,
+    'dec':  44.5166666666667 ,
+    'label': ' NGC 7000 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.496133214517008,-0.626162788185845,"planetarium.addPointer({
+    'ra':  314.75 ,
+    'dec':  44.5166666666667 ,
+    'label': ' NGC 7000 ',
+    'colour': ' rgb(0,153,0) '});"
+"7635","NGC 7635","HII region","7.0","","Cassiopeia","23h20m","+61°12'","Bubble Nebula, C 11",61.2,350,"planetarium.addPointer({
+    'ra':  350 ,
+    'dec':  61.2 ,
+    'label': ' NGC 7635 ',
+    'colour': ' rgb(117, 50, 168) '});",-0.50679802681635,2.08572481624545,"planetarium.addPointer({
+    'ra':  350 ,
+    'dec':  61.2 ,
+    'label': ' NGC 7635 ',
+    'colour': ' rgb(0,153,0) '});"
