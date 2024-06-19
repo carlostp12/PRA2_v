@@ -1,4 +1,4 @@
-# Práctica 2: Visualización de datos.
+# Práctica 2: Visualización de datos. Por Carlos Toro.
 
 Para acceder online a la presentación de esta práctica:
 
